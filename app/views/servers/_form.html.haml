@@ -1,0 +1,57 @@
+=form_for @server, html: {class: "form-horizontal" } do |f|
+  .form-group
+    =f.label :name, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :name, class: "form-control"
+  .form-group
+    =f.label :num_players, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :num_players, class: "form-control"
+  .form-group
+    =f.label :map_id, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.select(:map_id, map_options_for_select, {}, {class: "form-control"})
+  .form-group
+    =f.label :time_limit, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :time_limit, class: "form-control"
+
+  .form-group
+    =f.label :mapcycle_timeout, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :mapcycle_timeout, class: "form-control"
+
+  .form-group
+    =f.label :rcon_password, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :rcon_password, class: "form-control"
+
+  .form-group
+    =f.label :afk_kick, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :afk_kick, class: "form-control"
+
+  .form-group
+    =f.label :ping_kick, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.text_field :ping_kick, class: "form-control"
+
+  .form-group
+    =f.label :anti_caps, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.check_box :anti_caps
+  .form-group
+    =f.label :anti_spam, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.check_box :anti_spam
+  .form-group
+    =f.label :friendly_fire, class: "col-sm-2 control-label"
+    .col-sm-10
+      =f.check_box :friendly_fire
+
+
+
+  .form-group
+    .col-sm-offset-2.col-sm-10
+      =f.submit :submit, value: "Build", class: "btn btn-default"
+

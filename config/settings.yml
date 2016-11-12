@@ -1,0 +1,3 @@
+server_name_prefix: "[atom]"
+server_files: "files/haloded"
+map_server_path: "https://halomd.macgamingmods.com/mods/"

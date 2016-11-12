@@ -1,0 +1,35 @@
+%p= @server.name
+
+-if @server.status.in?([ServerStatus::Offline,ServerStatus::Failed])
+  =form_for @server, url: { action: :start }, method: :post do |f|
+    %button.btn.btn-primary.btn-lg{:type => "submit"} Start Server
+-else
+  =form_for @server, url: { action: :stop }, method: :post do |f|
+    %button.btn.btn-primary.btn-lg{:type => "submit"} Stop Server
+
+%ul.nav.nav-tabs
+  %li.active{:role => "presentation"}
+    %a{"data-toggle": "tab", :href => "#details"} Configuration
+  %li{:role => "presentation"}
+    %a{"data-toggle": "tab", :href => "#players"} Players
+  %li{:role => "presentation"}
+    %a{:href => "#"} Logs
+
+.tab-content
+  #details.tab-pane.fade.in.active
+    .inner
+      %dl.dl-horizontal
+        %dt Status
+        %dd= @server.status_formatted
+      %dl.dl-horizontal
+        %dt Players
+        %dd= @server.num_players
+      %dl.dl-horizontal
+        %dt Rcon password
+        %dd= @server.rcon_password
+  #players.tab-pane.fade
+    %h3 Menu 1
+    %p Some content in menu 1.
+  #menu2.tab-pane.fade
+    %h3 Menu 2
+    %p Some content in menu 2.

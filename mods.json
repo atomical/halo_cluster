@@ -1,0 +1,5364 @@
+{
+  "Mods": [
+    {
+      "identifier": "greenfall_1",
+      "patches": [
+
+      ],
+      "description": "A not so slow pace of life on this rural farm",
+      "human_version": "1 build 1",
+      "name": "Greenfall",
+      "hash": "54082eb590451287f5a083c4bc439c85",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "farlands_1",
+      "patches": [
+
+      ],
+      "description": "Violent weapons in a small, peaceful place.",
+      "human_version": "1.0 build 1",
+      "name": "Farlands",
+      "hash": "550f165e1b96160e336c3701e3ad0a37",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "wolvesamb_2",
+      "patches": [
+        {
+          "base_identifier": "wolvesamb_1",
+          "base_hash": "b688ecdf5c8bba449652301593046133",
+          "path": "patches/wolvesamb_2_from_wolvesamb_1.mdpatch"
+        }
+      ],
+      "description": "A halo combat evolved anniversary campaign mod.",
+      "human_version": "1.1",
+      "name": "Wolves Ambush",
+      "hash": "b0feeecd34c06ff91dc8b3a63221de1b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "wolvesamb_1",
+      "patches": [
+
+      ],
+      "description": "A halo combat evolved anniversary campaign mod.",
+      "human_version": "1.0",
+      "name": "Wolves Ambush",
+      "hash": "b688ecdf5c8bba449652301593046133",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "frostbite1_2",
+      "patches": [
+        {
+          "base_identifier": "frostbite1_1",
+          "base_hash": "7bec570c75b10eaafe225adc0a3bea4f",
+          "path": "patches/frostbite1_2_from_frostbite1_1.mdpatch"
+        }
+      ],
+      "description": "The destruction of Installation 04 flung this ring fragment into a distant orbit, leaving this once-humid canyon susceptible to the cold emptiness of space.",
+      "human_version": "1.2",
+      "name": "Frostbite",
+      "hash": "3ab47c488b05c28a302907e4ae4bae51",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "whirlwind_2",
+      "patches": [
+        {
+          "base_identifier": "whirlwind_1",
+          "base_hash": "9eed1d64dbdeebfc064b77348968f763",
+          "path": "patches/whirlwind_2_from_whirlwind_1.mdpatch"
+        }
+      ],
+      "description": "The mysteriously sharp rocks here were thought to have been formed by erosion from heavy rain many years ago but this now sandy desert land is an oasis for covenant activity.",
+      "human_version": "2.0",
+      "name": "Whirlwind",
+      "hash": "2aadbe3bcb7708e19e65db2882134ad1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "whirlwind_1",
+      "patches": [
+
+      ],
+      "description": "The mysteriously sharp rocks here were thought to have been formed by erosion from heavy rain many years ago but this now sandy desert land is an oasis for covenant activity.",
+      "human_version": "1.0",
+      "name": "Whirlwind",
+      "hash": "9eed1d64dbdeebfc064b77348968f763",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sunset_4",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Sidewinder in the summer",
+      "human_version": "1.4",
+      "name": "Sunset",
+      "hash": "a39c54a5964e06564a751bb350cf8dca",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "darkcreek_2",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Battle Creek in a dark nighttime setting",
+      "human_version": "1.2",
+      "name": "Dark Creek",
+      "hash": "02d06f519c3ea203505707edf77da674",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_11",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Hang 'Em High in the snow",
+      "human_version": "1.11",
+      "name": "HangemHigher",
+      "hash": "64502e2080cbbef27b5ae0096c98cf01",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "downpour_2",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Danger Canyon in a rain storm",
+      "human_version": "1.2",
+      "name": "Downpour",
+      "hash": "abf73e42adb3a348181e20efeb262a41",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgplus_5",
+      "patches": [
+        {
+          "base_identifier": "bgplus_4",
+          "base_hash": "51529b14ce6e30bb13969a96a63ec02b",
+          "path": "patches/bgplus_5_from_bgplus_4.mdpatch"
+        }
+      ],
+      "description": "A revamped version of bloodgulch.",
+      "human_version": "1.3",
+      "name": "Bloodgulch+",
+      "hash": "7512b8399a1d43952f3879a39f35d2b2",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "seaside_4",
+      "patches": [
+
+      ],
+      "description": "Variant of the Halo Custom Edition map No Remorse, an ODST inspired mod, which features close quarters combat while also including vehicles and tactical weapons",
+      "human_version": "4.0",
+      "name": "Seaside",
+      "hash": "ccb68ef1402ebb698b528d616e32bfa5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "seaside_3",
+      "patches": [
+
+      ],
+      "description": "Variant of the Halo Custom Edition map No Remorse, an ODST inspired mod, which features close quarters combat while also including vehicles and tactical weapons",
+      "human_version": "3.0",
+      "name": "Seaside",
+      "hash": "e4c503769f9d0f7a36013cab11866c35",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "slipnslide_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/slipnslide_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Random weapons, low health, and a slide that never ends.",
+      "human_version": "1.0",
+      "name": "Slip 'N Slide",
+      "hash": "fef889e22a2584b806816a8b75e4259d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "dragonball_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/dragonball_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Dragonball Z in Halo! Fly around and use the iconic attacks from the series on planet Namek.",
+      "human_version": "1.0",
+      "name": "Haloball Z",
+      "hash": "02b77adcbf96d20908b8d4fd720b3c34",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "downrushh_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/downrushh_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Fast paced, Halo 1 styled close quarters map based off of AeroWalk from Quake. (Halo 1.5 Port)",
+      "human_version": "1.0",
+      "name": "Downrush",
+      "hash": "5639057212fb0d20f733ff5489546aed",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "zerohourh_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/zerohourh_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Impactpoint with the original Halo 1 weapons and other minor alterations. (Halo 1.5 Port)",
+      "human_version": "1.0",
+      "name": "Zerohour",
+      "hash": "9e8c389e017cd0bd592a32b863fe4530",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "snowpact_6",
+      "patches": [
+        {
+          "base_identifier": "ipbeta04_5",
+          "base_hash": "006978096ae933e02c4ab15ebee1edc3",
+          "path": "patches/snowpact_6_from_ipbeta04_5.mdpatch"
+        },
+        {
+          "base_identifier": "ipbeta04_4",
+          "base_hash": "561c6dae3c8f3086cc48aacf90231eec",
+          "path": "patches/snowpact_6_from_ipbeta04_4.mdpatch"
+        },
+        {
+          "base_identifier": "ipbeta03_3",
+          "base_hash": "1ed8770bfea698a4dc01aa2156f5aad3",
+          "path": "patches/snowpact_6_from_ipbeta03_3.mdpatch"
+        }
+      ],
+      "description": "Jump into a fast, frenetic and exciting one-hit, one-kill Instagib arena map that's as accessible as it is skillful.",
+      "human_version": "5.0",
+      "name": "Impactpoint [Beta]",
+      "hash": "5918b29e15971945643a01ebf9f26197",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "snownatur_1",
+      "patches": [
+
+      ],
+      "description": "Heavy snow has fallen on this small secluded canyon",
+      "human_version": "1.0",
+      "name": "Snow Nature",
+      "hash": "963a88edef47f9fcb793bd095bf97f84",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "aurtle_2",
+      "patches": [
+        {
+          "base_identifier": "aurtle_1",
+          "base_hash": "4a82ca4e9c5af792fc6577faa322fdd6",
+          "path": "patches/aurtle_2_from_aurtle_1.mdpatch"
+        }
+      ],
+      "description": "Spawn with a Laser Gun and play just like real life Laser Gaming!",
+      "human_version": "1.2",
+      "name": "Aureole TLE",
+      "hash": "7cc826cee6cf30b0622dec9a70470cea",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sciophobia_1",
+      "patches": [
+
+      ],
+      "description": "Sciophobia (fear of shadows) is a abandoned UNSC research station that was heavily damaged by the Covenant and is now drifting aimlessly through space.",
+      "human_version": "1.0",
+      "name": "Sciophobia",
+      "hash": "28368d55a8951b892648c34a3df30e10",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "huh-what_3_1",
+      "patches": [
+
+      ],
+      "description": "Huh? What? Where I am? What am I doing here? Why do I have do I have this knife? Why is that guy trying to kill me? Doesn't matter, use whatever necessary to dominate this tiny Island in the middle of nowhere.",
+      "human_version": "1.0",
+      "name": "Huh What 3",
+      "hash": "94bc91289515e746441114cf1d7598d5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_14",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_13",
+          "base_hash": "00d9173296fdc195950961b807b050b6",
+          "path": "patches/phoenix3_14_from_phoenix3_13.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_12",
+          "base_hash": "9ebf57e4d91dd42c0abaddd8c926923f",
+          "path": "patches/phoenix3_14_from_phoenix3_12.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_11",
+          "base_hash": "b1a92bcdec34253fb587d9baaef820ee",
+          "path": "patches/phoenix3_14_from_phoenix3_11.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.95",
+      "name": "Phoenix 3",
+      "hash": "076bda59a343fb9c3ecc7efc01d8f148",
+      "plug-ins": [
+        "Aspect Ratio FOV Fixer",
+        "Increase Visible Object Limit"
+      ]
+    },
+    {
+      "identifier": "bigasschrist_1",
+      "patches": [
+
+      ],
+      "description": "Artistic changes for the holiday season.",
+      "human_version": "1.0",
+      "name": "Bigass Christmas",
+      "hash": "c32390da2425fb05d3bbe41de73ad997",
+      "plug-ins": [
+        "Halo+"
+      ]
+    },
+    {
+      "identifier": "starlight_1",
+      "patches": [
+
+      ],
+      "description": "Play on Forerunner gravity platforms that have attracted an asteroid field.",
+      "human_version": "1.0",
+      "name": "Starlight Arena",
+      "hash": "324c9342aaad52f5add7e0a8971af49d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_10",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Hang 'Em High in the snow",
+      "human_version": "1.10",
+      "name": "HangemHigher",
+      "hash": "5d35d91e10df8ffdccd488f44891fdb5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "darkcreek_1",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Battle Creek in a dark nighttime setting",
+      "human_version": "1.1",
+      "name": "Dark Creek",
+      "hash": "2f3b138155f458cc72835729aea4ed8a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sunset_3",
+      "patches": [
+
+      ],
+      "description": "Halo Update series: Sidewinder in the summer",
+      "human_version": "1.3",
+      "name": "Sunset",
+      "hash": "8f9cc7e11ff134da3a018b9ffffefeba",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "erasus_1",
+      "patches": [
+
+      ],
+      "description": "A medium-sized windy map by aLTis.",
+      "human_version": "1.0",
+      "name": "Erasus",
+      "hash": "38c525a16c38f299fadd21945ef0bb2c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "church_1",
+      "patches": [
+
+      ],
+      "description": "This church is a violent, unquiet, place.",
+      "human_version": "1.0",
+      "name": "Church",
+      "hash": "60ae8358b5706954ec6fa67333ab6c84",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "vast_1",
+      "patches": [
+        {
+          "base_identifier": "crossing",
+          "base_hash": "8881f2749b1c0396581ec8a12256f01b",
+          "path": "patches/vast_1_from_crossing.mdpatch"
+        }
+      ],
+      "description": "A modification of Moxus’ Crossing with floating physics.",
+      "human_version": "1.0",
+      "name": "Vast",
+      "hash": "49d80c906e50db2c780e8700d2d14317",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "frostbite1_1",
+      "patches": [
+
+      ],
+      "description": "The destruction of Installation 04 flung this ring fragment into a distant orbit, leaving this once-humid canyon susceptible to the cold emptiness of space.",
+      "human_version": "1.0",
+      "name": "Frostbite",
+      "hash": "7bec570c75b10eaafe225adc0a3bea4f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "revolution_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/revolution_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Redcoats and Yankees battle it out with muskets and cannons inside a closed area within bloodgulch.",
+      "human_version": "1.0",
+      "name": "Revolutionary War",
+      "hash": "898655b07da71a0da23050ce8d88729a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "drunktank_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/drunktank_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Which portal is best portal?",
+      "human_version": "1.0",
+      "name": "Drunk Tank",
+      "hash": "4e87727ab1aa69361a64ba75302666c4",
+      "plug-ins": [
+        "Aspect Ratio FOV Fixer"
+      ]
+    },
+    {
+      "identifier": "bumpcars_2",
+      "patches": [
+        {
+          "base_identifier": "bumpcars_1",
+          "base_hash": "ecd1edc35d674d91e3621fccb4370c07",
+          "path": "patches/bumpcars_2_from_bumpcars_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bumpcars_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "bloodgulch with civi hogs, no weapons, no diing, ramps, and a big flat area.",
+      "human_version": "2.0",
+      "name": "Bumper Cars",
+      "hash": "c27fbc669107392764fc7e1300bc9925",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "outback_2",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, Gephyrophobia is transformed into an old water treatment facility in the desert of Halo",
+      "human_version": "1.3",
+      "name": "Outback",
+      "hash": "924441da7a3dc921b60791198b109b0b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "rocketsurfinggulch_2",
+      "patches": [
+        {
+          "base_identifier": "rocketsurfinggulch_1",
+          "base_hash": "ebca3d8ccd2e2e38d724613ba7a6e86f",
+          "path": "patches/rocketsurfinggulch_2_from_rocketsurfinggulch_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rocketsurfinggulch_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Stand near a rocket to ride it. It's fun!",
+      "human_version": "1.1",
+      "name": "Rocket Surfing Gulch",
+      "hash": "b2553eeb510dc7015cfcda51ed5ac704",
+      "plug-ins": [
+        "Rocket Surfing"
+      ]
+    },
+    {
+      "identifier": "rocketsurfinggulch_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rocketsurfinggulch_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Stand near a rocket to ride it. It's fun!",
+      "human_version": "1.0",
+      "name": "Rocket Surfing Gulch",
+      "hash": "ebca3d8ccd2e2e38d724613ba7a6e86f",
+      "plug-ins": [
+        "Rocket Surfing"
+      ]
+    },
+    {
+      "identifier": "ipbeta04_5",
+      "patches": [
+        {
+          "base_identifier": "ipbeta04_4",
+          "base_hash": "561c6dae3c8f3086cc48aacf90231eec",
+          "path": "patches/ipbeta04_5_from_ipbeta04_4.mdpatch"
+        },
+        {
+          "base_identifier": "ipbeta03_3",
+          "base_hash": "1ed8770bfea698a4dc01aa2156f5aad3",
+          "path": "patches/ipbeta04_5_from_ipbeta03_3.mdpatch"
+        },
+        {
+          "base_identifier": "ipbeta02_1",
+          "base_hash": "76dc4e257d8ece0f1ab59a506cf35696",
+          "path": "patches/ipbeta04_5_from_ipbeta02_1.mdpatch"
+        }
+      ],
+      "description": "Jump into a fast, frenetic and exciting one-hit, one-kill Instagib arena map that's as accessible as it is skillful.",
+      "human_version": "4.1",
+      "name": "Impactpoint [Beta]",
+      "hash": "006978096ae933e02c4ab15ebee1edc3",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ipbeta04_4",
+      "patches": [
+        {
+          "base_identifier": "ipbeta03_3",
+          "base_hash": "1ed8770bfea698a4dc01aa2156f5aad3",
+          "path": "patches/ipbeta04_4_from_ipbeta03_3.mdpatch"
+        },
+        {
+          "base_identifier": "ipbeta02_1",
+          "base_hash": "76dc4e257d8ece0f1ab59a506cf35696",
+          "path": "patches/ipbeta04_4_from_ipbeta02_1.mdpatch"
+        }
+      ],
+      "description": "Jump into a fast, frenetic and exciting one-hit, one-kill Instagib arena map that's as accessible as it is skillful.",
+      "human_version": "4.0",
+      "name": "Impactpoint [Beta]",
+      "hash": "561c6dae3c8f3086cc48aacf90231eec",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bigassv5_1",
+      "patches": [
+
+      ],
+      "description": "Bigass Final + Spartan",
+      "human_version": "1.0",
+      "name": "Bigass v5",
+      "hash": "e9a54ed879e3b63633f32bad409838c4",
+      "plug-ins": [
+        "Spartan"
+      ]
+    },
+    {
+      "identifier": "bigassfin_1",
+      "patches": [
+
+      ],
+      "description": "New weapons and vehicles.",
+      "human_version": "1.0",
+      "name": "Bigass Final",
+      "hash": "ce55cbb85e215b07cdf8eee5a5ccac22",
+      "plug-ins": [
+        "Halo+"
+      ]
+    },
+    {
+      "identifier": "ipbeta03_3",
+      "patches": [
+        {
+          "base_identifier": "ipbeta02_1",
+          "base_hash": "76dc4e257d8ece0f1ab59a506cf35696",
+          "path": "patches/ipbeta03_3_from_ipbeta02_1.mdpatch"
+        }
+      ],
+      "description": "Jump into a fast, frenetic and exciting one-hit, one-kill Instagib arena map that's as accessible as it is skillful.",
+      "human_version": "3.0",
+      "name": "Impactpoint [Beta]",
+      "hash": "1ed8770bfea698a4dc01aa2156f5aad3",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ipbeta02_1",
+      "patches": [
+
+      ],
+      "description": "Jump into a fast, frenetic and exciting one-hit, one-kill Instagib arena map that's as accessible as it is skillful.",
+      "human_version": "2.0",
+      "name": "Impactpoint [Beta]",
+      "hash": "76dc4e257d8ece0f1ab59a506cf35696",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bot300_2",
+      "patches": [
+        {
+          "base_identifier": "bot300_1",
+          "base_hash": "95c380a6a6176a9074d3f0b3d777d931",
+          "path": "patches/bot300_2_from_bot300_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bot300_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Melee only battle on a high, narrow cliff.",
+      "human_version": "2.0",
+      "name": "Battle of the 300",
+      "hash": "e33864e2c91060ab0052858d6cc1c46e",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bombrun4k_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bombrun4k_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "The one and true successor to Bomb Run 3D.",
+      "human_version": "1.0",
+      "name": "Bomb Run 4K",
+      "hash": "988f418aeffa0b9c5fcd2d951bb5c921",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bot300_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bot300_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Melee only battle on a high, narrow cliff.",
+      "human_version": "1.0",
+      "name": "Battle of the 300",
+      "hash": "95c380a6a6176a9074d3f0b3d777d931",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "carnage_4",
+      "patches": [
+        {
+          "base_identifier": "carnage_3",
+          "base_hash": "a7648de0cf67244cef700ed647af831a",
+          "path": "patches/carnage_4_from_carnage_3.mdpatch"
+        },
+        {
+          "base_identifier": "carnage_2",
+          "base_hash": "85fddbf5fe89d9d2d6164a12144e563d",
+          "path": "patches/carnage_4_from_carnage_2.mdpatch"
+        },
+        {
+          "base_identifier": "carnage_1",
+          "base_hash": "b5545b53bfe08e12f41d3f87e60b30e2",
+          "path": "patches/carnage_4_from_carnage_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/carnage_4_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with many weapon changes, new textures, flying hogs and faster hogs.",
+      "human_version": "4.0",
+      "name": "Carnage Mod",
+      "hash": "3768084165f74762478281bd28f23699",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "carnage_3",
+      "patches": [
+        {
+          "base_identifier": "carnage_2",
+          "base_hash": "85fddbf5fe89d9d2d6164a12144e563d",
+          "path": "patches/carnage_3_from_carnage_2.mdpatch"
+        },
+        {
+          "base_identifier": "carnage_1",
+          "base_hash": "b5545b53bfe08e12f41d3f87e60b30e2",
+          "path": "patches/carnage_3_from_carnage_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/carnage_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with many weapon changes, new textures, flying hogs and faster hogs.",
+      "human_version": "3.0",
+      "name": "Carnage Mod",
+      "hash": "a7648de0cf67244cef700ed647af831a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sticksandstones_2",
+      "patches": [
+        {
+          "base_identifier": "sticksandstones_1",
+          "base_hash": "4b07c27d27b3dc561ef40157d9e78751",
+          "path": "patches/sticksandstones_2_from_sticksandstones_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/sticksandstones_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Weapons are explosive crossbow, ballistic knife, and tomahawk and takes place in a isolated section of bloodgulch",
+      "human_version": "2.0",
+      "name": "Sticks and Stones",
+      "hash": "67773170d082c68e6e2a6a2a81fb642c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sticksandstones_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/sticksandstones_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Weapons are explosive crossbow, ballistic knife, and tomahawk and takes place in a isolated section of bloodgulch",
+      "human_version": "1.0",
+      "name": "Sticks and Stones",
+      "hash": "4b07c27d27b3dc561ef40157d9e78751",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "zmpsierra_1",
+      "patches": [
+
+      ],
+      "description": "A mod by aLTis designed for Zombies, a fortress structure near a small lake.",
+      "human_version": "1.0",
+      "name": "ZMP Sierra",
+      "hash": "a67403b0e218730a0190bfc3ccdc8e52",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "carnage_2",
+      "patches": [
+        {
+          "base_identifier": "carnage_1",
+          "base_hash": "b5545b53bfe08e12f41d3f87e60b30e2",
+          "path": "patches/carnage_2_from_carnage_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/carnage_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with many weapon changes, new textures, flying hogs and faster hogs.",
+      "human_version": "2.0",
+      "name": "Carnage Mod",
+      "hash": "85fddbf5fe89d9d2d6164a12144e563d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heh_2",
+      "patches": [
+        {
+          "base_identifier": "heh_1",
+          "base_hash": "1bd786385cbf38299822092ec4ce616f",
+          "path": "patches/heh_2_from_heh_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heh_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Changes: Flying warthogs, Ghosts, a tank, the warthogs can fire grenades, the ghosts fire overcharged plasma pistol shots, super jump and wall walking.",
+      "human_version": "1.1",
+      "name": "Hell Gulch",
+      "hash": "9fa39eaa832c278e6f4f8b2f5aaeae0d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "carnage_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/carnage_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with many weapon changes, new textures, flying hogs and faster hogs.",
+      "human_version": "1.0",
+      "name": "Carnage Mod",
+      "hash": "b5545b53bfe08e12f41d3f87e60b30e2",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_13",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_12",
+          "base_hash": "9ebf57e4d91dd42c0abaddd8c926923f",
+          "path": "patches/phoenix3_13_from_phoenix3_12.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_11",
+          "base_hash": "b1a92bcdec34253fb587d9baaef820ee",
+          "path": "patches/phoenix3_13_from_phoenix3_11.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_10",
+          "base_hash": "4ffb934986c4f9ffd5bc14b28eb4af33",
+          "path": "patches/phoenix3_13_from_phoenix3_10.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.85",
+      "name": "Phoenix 3",
+      "hash": "00d9173296fdc195950961b807b050b6",
+      "plug-ins": [
+        "Aspect Ratio FOV Fixer",
+        "Increase Visible Object Limit"
+      ]
+    },
+    {
+      "identifier": "bigass on steroids_1",
+      "patches": [
+
+      ],
+      "description": "Bigass + super fast speed, super high jumps (with no fall damage), lots of ammo, guns shoot tank shells, increased nade and mine number.",
+      "human_version": "1.0",
+      "name": "Bigass on Steroids",
+      "hash": "0f8e13c44ffd16a911b6cda55ec49aaf",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "rapidfire_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rapidfire_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A Blood Gulch based weapon mod where the weapons fire rapidly.",
+      "human_version": "1.0",
+      "name": "Rapid Fire Action",
+      "hash": "a1ca0128e54e5b280564bd334ab5c4f9",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bridgex_1",
+      "patches": [
+
+      ],
+      "description": "Pyrhex Bridge with Spartan X and without the laser",
+      "human_version": "1.0",
+      "name": "Pyrhex Bridge X",
+      "hash": "e9cecec299da3d196d43f672eb906ff1",
+      "plug-ins": [
+        "Spartan"
+      ]
+    },
+    {
+      "identifier": "bloodgulcx_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bloodgulcx_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with spartan x alpha",
+      "human_version": "1.0",
+      "name": "Bloodgulch X",
+      "hash": "db89a9b3c2bffeb2d62b543e38f28008",
+      "plug-ins": [
+        "Spartan"
+      ]
+    },
+    {
+      "identifier": "bigassv4_1",
+      "patches": [
+
+      ],
+      "description": "Bigass with new upgrades",
+      "human_version": "1",
+      "name": "Bigass v4 [Alpha]",
+      "hash": "c0349bb24d9f1efd36ee45d12e3934e7",
+      "plug-ins": [
+        "Spartan"
+      ]
+    },
+    {
+      "identifier": "downpour_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, explore ancient structures in Danger Canyon in the pouring rain",
+      "human_version": "1.0",
+      "name": "Downpour",
+      "hash": "1114978a3f874bfc61fe7a653b579676",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "csrhball_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/csrhball_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Here's my 2015 take on the older map Haloball, It never get's old! - Caesar.",
+      "human_version": "1.0",
+      "name": "Caesar's Haloball 2015",
+      "hash": "e35d44c0329af192d930f24170b9a8a7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "canopy_4",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, Timberland in a Delta Halo setting with new weapons and Halo 2 scenery.",
+      "human_version": "4.0",
+      "name": "Canopy",
+      "hash": "6d07ffcb84c416d80425e6683fb54283",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "claust_3",
+      "patches": [
+        {
+          "base_identifier": "claust_2",
+          "base_hash": "5992d09ff7e6451a1b730be21ee29f96",
+          "path": "patches/claust_3_from_claust_2.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/claust_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Scared of small places?",
+      "human_version": "1.1",
+      "name": "Claustrophobia",
+      "hash": "0725c6ddb3e879baacc558c0a79c8434",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "csrmario_2",
+      "patches": [
+        {
+          "base_identifier": "csrmario_1",
+          "base_hash": "5cdde8f25d78d9a9f9ef268599d7ee91",
+          "path": "patches/csrmario_2_from_csrmario_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/csrmario_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play Super Mario in 3D, All Gametypes Supported. Mod by Caesar.",
+      "human_version": "1.3",
+      "name": "Caesar's Super Mario Adventure",
+      "hash": "5857b8d341e35be211c41dd13a75c843",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "csrmario_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/csrmario_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play Super Mario in 3D, All Gametypes Supported. Mod by Caesar.",
+      "human_version": "1.0",
+      "name": "Caesar's Super Mario Adventure",
+      "hash": "5cdde8f25d78d9a9f9ef268599d7ee91",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "a30reflect_7",
+      "patches": [
+        {
+          "base_identifier": "a30reflect_2",
+          "base_hash": "1934e129302e6c650c65510b73f51bf5",
+          "path": "patches/a30reflect_7_from_a30reflect_2.mdpatch"
+        },
+        {
+          "base_identifier": "a30reflect_1",
+          "base_hash": "a53c453a6bdb71f58aa9d98988e582e1",
+          "path": "patches/a30reflect_7_from_a30reflect_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/a30reflect_7_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Arcade arena CTF or Slayer",
+      "human_version": "7.0",
+      "name": "A30 Reflection",
+      "hash": "da5f6b490c9fde3e147f9544c0fd6c41",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "blood_svi_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/blood_svi_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with SpartanIV extension",
+      "human_version": "1.0",
+      "name": "BG SpartanVI",
+      "hash": "992a599d97ce97f8f04e751ed23642b4",
+      "plug-ins": [
+        "SpartanIV"
+      ]
+    },
+    {
+      "identifier": "csrxmas141_1",
+      "patches": [
+
+      ],
+      "description": "Merry Christmas and a Happy New Year everyone! - First Mod in my 2015 Caesar's Mods Series.",
+      "human_version": "1.0",
+      "name": "Caesar's Christmas Mod 2014",
+      "hash": "c5cdf0ca583ac5a78269b018a953cb46",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_12",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_11",
+          "base_hash": "b1a92bcdec34253fb587d9baaef820ee",
+          "path": "patches/phoenix3_12_from_phoenix3_11.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_10",
+          "base_hash": "4ffb934986c4f9ffd5bc14b28eb4af33",
+          "path": "patches/phoenix3_12_from_phoenix3_10.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_9",
+          "base_hash": "07e7d7dfbfbfbacc4ec9d53608e4cfc0",
+          "path": "patches/phoenix3_12_from_phoenix3_9.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.75",
+      "name": "Phoenix 3",
+      "hash": "9ebf57e4d91dd42c0abaddd8c926923f",
+      "plug-ins": [
+        "Increase Visible Object Limit"
+      ]
+    },
+    {
+      "identifier": "dgorge1_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/dgorge1_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A rocky Blood Gulch with powerful weapons, tanks, fast hogs, and more.",
+      "human_version": "1.0",
+      "name": "Death Gorge",
+      "hash": "df9fa90a24112d53704008a34cca89ed",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgulch_1",
+      "patches": [
+
+      ],
+      "description": "A revamped version of Bloodgulch by Pyrhex",
+      "human_version": "1.0",
+      "name": "BattleGulch",
+      "hash": "3db03997b79d2ffb74e55527b6edd102",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bigassv3_1",
+      "patches": [
+
+      ],
+      "description": "A mod by aLTis, a large map with a variety of vehicles and weapons",
+      "human_version": "1.0",
+      "name": "Bigass v3",
+      "hash": "4788b728f5b963acc41152f747e362f0",
+      "plug-ins": [
+        "SpartanIV"
+      ]
+    },
+    {
+      "identifier": "outback_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update Series, Danger Canyon in a desert setting",
+      "human_version": "1.2",
+      "name": "Outback",
+      "hash": "474178b1d06d1fe4eb8ba4edba25c80c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "labyrinth_2",
+      "patches": [
+        {
+          "base_identifier": "labyrinth_1",
+          "base_hash": "f1716aa3ca7daa265ae00c52fd61e266",
+          "path": "patches/labyrinth_2_from_labyrinth_1.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an enhanced version of Chiron TL-34",
+      "human_version": "1.2",
+      "name": "Labyrinth",
+      "hash": "3ce14aef36c616f3a6b2a3fd5d393125",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sunset_2",
+      "patches": [
+        {
+          "base_identifier": "sunset_1",
+          "base_hash": "c17cb610e6fec8e0efb2d7bc81f4c39b",
+          "path": "patches/sunset_2_from_sunset_1.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, a warmer version of Sidewinder",
+      "human_version": "1.2",
+      "name": "Sunset",
+      "hash": "d0988d467de2f71d3b3cbf65f5b974a9",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgplus_4",
+      "patches": [
+        {
+          "base_identifier": "bgplus_3",
+          "base_hash": "7a877cd7a98681be3cd6f04ed8344879",
+          "path": "patches/bgplus_4_from_bgplus_3.mdpatch"
+        },
+        {
+          "base_identifier": "bgplus_2",
+          "base_hash": "db0fac95cca5d5aafb72270417c5ee53",
+          "path": "patches/bgplus_4_from_bgplus_2.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bgplus_4_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A revamped version of bloodgulch.",
+      "human_version": "1.2",
+      "name": "Bloodgulch+",
+      "hash": "51529b14ce6e30bb13969a96a63ec02b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_11",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_10",
+          "base_hash": "4ffb934986c4f9ffd5bc14b28eb4af33",
+          "path": "patches/phoenix3_11_from_phoenix3_10.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_9",
+          "base_hash": "07e7d7dfbfbfbacc4ec9d53608e4cfc0",
+          "path": "patches/phoenix3_11_from_phoenix3_9.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_8",
+          "base_hash": "3abcaf1a2058c3e4177f65596f4e383a",
+          "path": "patches/phoenix3_11_from_phoenix3_8.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.65",
+      "name": "Phoenix 3",
+      "hash": "b1a92bcdec34253fb587d9baaef820ee",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_10",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_9",
+          "base_hash": "07e7d7dfbfbfbacc4ec9d53608e4cfc0",
+          "path": "patches/phoenix3_10_from_phoenix3_9.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_8",
+          "base_hash": "3abcaf1a2058c3e4177f65596f4e383a",
+          "path": "patches/phoenix3_10_from_phoenix3_8.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_7",
+          "base_hash": "38102da76a12b1739f1266ef8d058128",
+          "path": "patches/phoenix3_10_from_phoenix3_7.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.6",
+      "name": "Phoenix 3",
+      "hash": "4ffb934986c4f9ffd5bc14b28eb4af33",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "warlock_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, a swampy version of Wizard",
+      "human_version": "1.0",
+      "name": "Warlock",
+      "hash": "43af9e3c2578184abafed9333a6c6096",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "battledojo_1",
+      "patches": [
+
+      ],
+      "description": "A dojo to practice melee with new bipeds, no weapons, and a new BSP.",
+      "human_version": "1.0",
+      "name": "BattleDojo",
+      "hash": "a30be597bcbb58fce2e97ca2d246a072",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "convict_2",
+      "patches": [
+        {
+          "base_identifier": "convict_1",
+          "base_hash": "170dd6ca0da77723f04d3038088694c7",
+          "path": "patches/convict_2_from_convict_1.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, Prisoner refreshed",
+      "human_version": "1.2",
+      "name": "Convict",
+      "hash": "deab0ec605f495ccead4157c0914e8e6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "labyrinth_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, an enhanced version of Chiron TL-34",
+      "human_version": "1.0",
+      "name": "Labyrinth",
+      "hash": "f1716aa3ca7daa265ae00c52fd61e266",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "convict_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, Prisoner refreshed",
+      "human_version": "1.0",
+      "name": "Convict",
+      "hash": "170dd6ca0da77723f04d3038088694c7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bigasscv2_2",
+      "patches": [
+
+      ],
+      "description": "Same as Bigass v2 but with the HUD plugin instead of HaloBSP",
+      "human_version": "2.0",
+      "name": "Bigass +HUD",
+      "hash": "f6a3e2efe2ad4e9c49d7df00c0c5408c",
+      "plug-ins": [
+        "SpartanIV"
+      ]
+    },
+    {
+      "identifier": "sunset_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, a warmer version of Sidewinder",
+      "human_version": "1.0",
+      "name": "Sunset",
+      "hash": "c17cb610e6fec8e0efb2d7bc81f4c39b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "headlong_3",
+      "patches": [
+        {
+          "base_identifier": "headlong_2",
+          "base_hash": "3a2f1daa4dbb0d4096fd7ca38fd28d4c",
+          "path": "patches/headlong_3_from_headlong_2.mdpatch"
+        },
+        {
+          "base_identifier": "headlong_1",
+          "base_hash": "84f4791b0e9e81557a92db38375d83a6",
+          "path": "patches/headlong_3_from_headlong_1.mdpatch"
+        }
+      ],
+      "description": "Set in the city of new Mombassa and is a great 8-12 player map",
+      "human_version": "3.0",
+      "name": "Headlong",
+      "hash": "8d1f5683fb35d1f8ab9b38e49f9038cd",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "lock_2",
+      "patches": [
+        {
+          "base_identifier": "lock_1",
+          "base_hash": "e67518210980f8ba1d08e8c485d7fab6",
+          "path": "patches/lock_2_from_lock_1.mdpatch"
+        }
+      ],
+      "description": "Some believe this remote facility was once used to study the Flood. But few clues remain amidst the snow and ice.",
+      "human_version": "2",
+      "name": "Lockout",
+      "hash": "1591f010174038e6705990f89f5eb64c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hydra_4",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, an enhanced version of Damnation",
+      "human_version": "1.4",
+      "name": "Hydra",
+      "hash": "5b382775a850e473ae2a77dc51a1c0aa",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_9",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "1.9",
+      "name": "HangemHigher",
+      "hash": "5a3eab5f1cbb11d907ffab6db0817b5e",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bigassv2_2",
+      "patches": [
+        {
+          "base_identifier": "bigassv2_1",
+          "base_hash": "669cb3729a2e606e1236840cbe3167fe",
+          "path": "patches/bigassv2_2_from_bigassv2_1.mdpatch"
+        }
+      ],
+      "description": "A new Custom Edition mod by aLTis brought to Halo MD by HandofGod, a huge open area with new weapons and vehicles.",
+      "human_version": "1.1",
+      "name": "Bigass",
+      "hash": "92d03be8cfa4b0d70c67500c51a1223c",
+      "plug-ins": [
+        "Halo Graphics Update"
+      ]
+    },
+    {
+      "identifier": "phoenix3_9",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_8",
+          "base_hash": "3abcaf1a2058c3e4177f65596f4e383a",
+          "path": "patches/phoenix3_9_from_phoenix3_8.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_7",
+          "base_hash": "38102da76a12b1739f1266ef8d058128",
+          "path": "patches/phoenix3_9_from_phoenix3_7.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_6",
+          "base_hash": "aa83b1d93d333af63e42b68eb6eb53c0",
+          "path": "patches/phoenix3_9_from_phoenix3_6.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_5",
+          "base_hash": "0e21434d147c76f4fe8bf86095507d19",
+          "path": "patches/phoenix3_9_from_phoenix3_5.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.56",
+      "name": "Phoenix 3",
+      "hash": "07e7d7dfbfbfbacc4ec9d53608e4cfc0",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_8",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_7",
+          "base_hash": "38102da76a12b1739f1266ef8d058128",
+          "path": "patches/phoenix3_8_from_phoenix3_7.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_6",
+          "base_hash": "aa83b1d93d333af63e42b68eb6eb53c0",
+          "path": "patches/phoenix3_8_from_phoenix3_6.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_5",
+          "base_hash": "0e21434d147c76f4fe8bf86095507d19",
+          "path": "patches/phoenix3_8_from_phoenix3_5.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.55",
+      "name": "Phoenix 3",
+      "hash": "3abcaf1a2058c3e4177f65596f4e383a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_7",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_6",
+          "base_hash": "aa83b1d93d333af63e42b68eb6eb53c0",
+          "path": "patches/phoenix3_7_from_phoenix3_6.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_5",
+          "base_hash": "0e21434d147c76f4fe8bf86095507d19",
+          "path": "patches/phoenix3_7_from_phoenix3_5.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_4",
+          "base_hash": "287561738d62c19e9a6e231f7aaa53c4",
+          "path": "patches/phoenix3_7_from_phoenix3_4.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.5",
+      "name": "Phoenix 3",
+      "hash": "38102da76a12b1739f1266ef8d058128",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "canopy_3",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, Timberland in a jungle setting",
+      "human_version": "3.0",
+      "name": "Canopy",
+      "hash": "4e2c7f45281bb18d0aa2e0e163021d8b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "seaside_2",
+      "patches": [
+        {
+          "base_identifier": "seaside_1",
+          "base_hash": "557db73d8bb55e4508bfb35c40232a83",
+          "path": "patches/seaside_2_from_seaside_1.mdpatch"
+        }
+      ],
+      "description": "Play as an ODST in a town by the beach with ODST weapons and equipment",
+      "human_version": "2.0",
+      "name": "Seaside",
+      "hash": "6839aa7857558a1ed455d783f21e978c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "gwesmultc1_3",
+      "patches": [
+
+      ],
+      "description": "Does Master Chief dream while in cryogenic stasis?",
+      "human_version": "3",
+      "name": "Galaxy Wars Epic Series",
+      "hash": "875cfe384d58f48c9c0e201d429de2ca",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "drizzle_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/drizzle_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Drizzling weather in a miniature desert map.",
+      "human_version": "1",
+      "name": "Drizzle",
+      "hash": "9e0f202376b1d47448f2e90f1e2bdd01",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "beaverc_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, a visually appealing version of Beaver Creek",
+      "human_version": "1.1",
+      "name": "Beaver Creek MD",
+      "hash": "899f36755c924e060a9ae0d5fb58a093",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bloodrev_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bloodrev_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch the way it was meant to be played",
+      "human_version": "1",
+      "name": "Bloodgulch Revised",
+      "hash": "f405a5a5fdc9375b425bb6ebaf79553a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_8",
+      "patches": [
+        {
+          "base_identifier": "hangie_7",
+          "base_hash": "743c240134ffbafd81345511769cc301",
+          "path": "patches/hangie_8_from_hangie_7.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_6",
+          "base_hash": "6e49c66dbfc25fc9d90efbc34a6cb4c0",
+          "path": "patches/hangie_8_from_hangie_6.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_5",
+          "base_hash": "ab78396b1083b37b2447f66b44ac3066",
+          "path": "patches/hangie_8_from_hangie_5.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "1.8",
+      "name": "HangemHigher",
+      "hash": "4952c781e9ef8b75da7c757d92b9e4da",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hydra_3",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, an enhanced version of Damnation",
+      "human_version": "1.3",
+      "name": "Hydra",
+      "hash": "992517570f222f6e16186f926fbde248",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgplus_3",
+      "patches": [
+        {
+          "base_identifier": "bgplus_2",
+          "base_hash": "db0fac95cca5d5aafb72270417c5ee53",
+          "path": "patches/bgplus_3_from_bgplus_2.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bgplus_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A revamped version of bloodgulch.",
+      "human_version": "1.1",
+      "name": "Bloodgulch+",
+      "hash": "7a877cd7a98681be3cd6f04ed8344879",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_7",
+      "patches": [
+        {
+          "base_identifier": "hangie_6",
+          "base_hash": "6e49c66dbfc25fc9d90efbc34a6cb4c0",
+          "path": "patches/hangie_7_from_hangie_6.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_5",
+          "base_hash": "ab78396b1083b37b2447f66b44ac3066",
+          "path": "patches/hangie_7_from_hangie_5.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_4",
+          "base_hash": "99558f6831794e3205c7613190cd7eb8",
+          "path": "patches/hangie_7_from_hangie_4.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "2.0",
+      "name": "HangemHigher",
+      "hash": "743c240134ffbafd81345511769cc301",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgplus_2",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bgplus_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A revamped version of bloodgulch.",
+      "human_version": "1.0",
+      "name": "Bloodgulch+",
+      "hash": "db0fac95cca5d5aafb72270417c5ee53",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "starwarsb_3",
+      "patches": [
+        {
+          "base_identifier": "starwarsb_1",
+          "base_hash": "9f49373ee1d143eff38f57bfb0d532ec",
+          "path": "patches/starwarsb_3_from_starwarsb_1.mdpatch"
+        }
+      ],
+      "description": "Use lightsabers, blasters, bowcasters and more! Brought to Halo MD by HandofGod, this is a beta version of Halo Star Wars by Hoboscience & Yoda",
+      "human_version": "3.0",
+      "name": "Halo Star Wars",
+      "hash": "5d2936c83cbeb41bc4418fc88cd09767",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "starwarsb_1",
+      "patches": [
+
+      ],
+      "description": "Use lightsabers, blasters, bowcasters and more! Brought to Halo MD by HandofGod, this is a beta version of Halo Star Wars by Hoboscience & Yoda",
+      "human_version": "1.0",
+      "name": "Halo Star Wars",
+      "hash": "9f49373ee1d143eff38f57bfb0d532ec",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "3rdperson_2",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/3rdperson_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play in 3rd Person",
+      "human_version": "1.0",
+      "name": "3rd Person",
+      "hash": "8e854a46c004ad8397a76262d769fbb5",
+      "plug-ins": [
+        "3rd Person"
+      ]
+    },
+    {
+      "identifier": "caves_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/caves_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch centered around its caves.",
+      "human_version": "1.0",
+      "name": "Caves",
+      "hash": "e6b3c48259b2402b0a7744350aa41342",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "house_2",
+      "patches": [
+        {
+          "base_identifier": "house_1",
+          "base_hash": "66ed289c1d2e294d9ac814f78e6987f5",
+          "path": "patches/house_2_from_house_1.mdpatch"
+        }
+      ],
+      "description": "Dare to Scare!",
+      "human_version": "1.01",
+      "name": "House of the Dead",
+      "hash": "af353f5a2a7d9ccfc01426c93d9cdb5f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "house_1",
+      "patches": [
+
+      ],
+      "description": "Dare to Scare!",
+      "human_version": "1",
+      "name": "House of the Dead",
+      "hash": "66ed289c1d2e294d9ac814f78e6987f5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mountains_5",
+      "patches": [
+        {
+          "base_identifier": "mountains_4",
+          "base_hash": "383ff28a8ce978c4e6bf8f6f7461fbff",
+          "path": "patches/mountains_5_from_mountains_4.mdpatch"
+        },
+        {
+          "base_identifier": "mountains_3",
+          "base_hash": "eb74a3b08a8f0e11ad2c82fc920cdb8f",
+          "path": "patches/mountains_5_from_mountains_3.mdpatch"
+        },
+        {
+          "base_identifier": "mountains_1",
+          "base_hash": "399e04e0a19eb5936cfa0f5a993e2616",
+          "path": "patches/mountains_5_from_mountains_1.mdpatch"
+        }
+      ],
+      "description": "Combat on a desolate mountain range",
+      "human_version": "5",
+      "name": "Mountains",
+      "hash": "6ae8bf8dfc900042c4621776883dadda",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "imposing_1",
+      "patches": [
+
+      ],
+      "description": "This map is located on this ancient shield world located outside the galaxy, ",
+      "human_version": "2.0",
+      "name": "Imposing [H3]",
+      "hash": "348f904a025f04daae800cefd1df32dd",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "midnightc_1",
+      "patches": [
+
+      ],
+      "description": "Play as an ODST in a wartorn city at night, this mod features many vehicles as well as ODST weapons and equipment",
+      "human_version": "1.0",
+      "name": "Midnight City",
+      "hash": "f04c21bfa689cc3bab61a053dfbfea08",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "skytwins_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/skytwins_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Two floating hilly landmasses connected by two bridges",
+      "human_version": "1.0",
+      "name": "Sky Twins",
+      "hash": "cd5bfb62ad6f6acd96b14f4ec9b308b8",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "seaside_1",
+      "patches": [
+
+      ],
+      "description": "Play as an ODST in a town by the beach with ODST weapons and equipment",
+      "human_version": "1.0",
+      "name": "Seaside",
+      "hash": "557db73d8bb55e4508bfb35c40232a83",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mountains_4",
+      "patches": [
+        {
+          "base_identifier": "mountains_3",
+          "base_hash": "eb74a3b08a8f0e11ad2c82fc920cdb8f",
+          "path": "patches/mountains_4_from_mountains_3.mdpatch"
+        },
+        {
+          "base_identifier": "mountains_1",
+          "base_hash": "399e04e0a19eb5936cfa0f5a993e2616",
+          "path": "patches/mountains_4_from_mountains_1.mdpatch"
+        }
+      ],
+      "description": "Combat on a desolate mountain range",
+      "human_version": "4",
+      "name": "Mountains",
+      "hash": "383ff28a8ce978c4e6bf8f6f7461fbff",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mountains_3",
+      "patches": [
+        {
+          "base_identifier": "mountains_1",
+          "base_hash": "399e04e0a19eb5936cfa0f5a993e2616",
+          "path": "patches/mountains_3_from_mountains_1.mdpatch"
+        }
+      ],
+      "description": "Combat on a desolate mountain range",
+      "human_version": "3",
+      "name": "Mountains",
+      "hash": "eb74a3b08a8f0e11ad2c82fc920cdb8f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mountains_1",
+      "patches": [
+
+      ],
+      "description": "Combat on a desolate mountain range",
+      "human_version": "1",
+      "name": "Mountains",
+      "hash": "399e04e0a19eb5936cfa0f5a993e2616",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "parallax2_2",
+      "patches": [
+        {
+          "base_identifier": "parallax2_1",
+          "base_hash": "8d553992f366f8908a76b2ac9dce4e18",
+          "path": "patches/parallax2_2_from_parallax2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod with a fresh layout based on Danger Canyon",
+      "human_version": "1.1",
+      "name": "Parallax 2",
+      "hash": "4d791a9829df064df404edc9f93bee7d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "parallax2_1",
+      "patches": [
+
+      ],
+      "description": "A total gameplay and visual effects mod with a fresh layout based on Danger Canyon",
+      "human_version": "1.0",
+      "name": "Parallax 2",
+      "hash": "8d553992f366f8908a76b2ac9dce4e18",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "a30reflect_2",
+      "patches": [
+        {
+          "base_identifier": "a30reflect_1",
+          "base_hash": "a53c453a6bdb71f58aa9d98988e582e1",
+          "path": "patches/a30reflect_2_from_a30reflect_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/a30reflect_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Arcade arena CTF or Slayer",
+      "human_version": "2.0",
+      "name": "A30 Reflection",
+      "hash": "1934e129302e6c650c65510b73f51bf5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_6",
+      "patches": [
+        {
+          "base_identifier": "hangie_5",
+          "base_hash": "ab78396b1083b37b2447f66b44ac3066",
+          "path": "patches/hangie_6_from_hangie_5.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_4",
+          "base_hash": "99558f6831794e3205c7613190cd7eb8",
+          "path": "patches/hangie_6_from_hangie_4.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "1.6",
+      "name": "HangemHigher",
+      "hash": "6e49c66dbfc25fc9d90efbc34a6cb4c0",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_6",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_5",
+          "base_hash": "0e21434d147c76f4fe8bf86095507d19",
+          "path": "patches/phoenix3_6_from_phoenix3_5.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_4",
+          "base_hash": "287561738d62c19e9a6e231f7aaa53c4",
+          "path": "patches/phoenix3_6_from_phoenix3_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_3",
+          "base_hash": "8b9ad2712a254240dc3ec9aa7a50b372",
+          "path": "patches/phoenix3_6_from_phoenix3_3.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.35",
+      "name": "Phoenix 3",
+      "hash": "aa83b1d93d333af63e42b68eb6eb53c0",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bigassv2_1",
+      "patches": [
+
+      ],
+      "description": "A new Custom Edition mod by aLTis brought to Halo MD by HandofGod, a huge open area with new weapons and vehicles.",
+      "human_version": "1.0",
+      "name": "Bigass",
+      "hash": "669cb3729a2e606e1236840cbe3167fe",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "canopy_2",
+      "patches": [
+        {
+          "base_identifier": "canopy_1",
+          "base_hash": "51f5383105d663a2be64b849e004106a",
+          "path": "patches/canopy_2_from_canopy_1.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, a dense jungle with a river running through it.",
+      "human_version": "2.0",
+      "name": "Canopy",
+      "hash": "67886ee93803e5476028a02f5f5d9e9f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_5",
+      "patches": [
+        {
+          "base_identifier": "hangie_4",
+          "base_hash": "99558f6831794e3205c7613190cd7eb8",
+          "path": "patches/hangie_5_from_hangie_4.mdpatch"
+        },
+        {
+          "base_identifier": "hangie_3",
+          "base_hash": "7681808204ac1031bbfa12db3c6cca0c",
+          "path": "patches/hangie_5_from_hangie_3.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "1.5",
+      "name": "HangemHigher",
+      "hash": "ab78396b1083b37b2447f66b44ac3066",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_4",
+      "patches": [
+        {
+          "base_identifier": "hangie_3",
+          "base_hash": "7681808204ac1031bbfa12db3c6cca0c",
+          "path": "patches/hangie_4_from_hangie_3.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, an updated version of Hang 'Em High",
+      "human_version": "1.4",
+      "name": "HangemHigher",
+      "hash": "99558f6831794e3205c7613190cd7eb8",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "happyhol_2",
+      "patches": [
+        {
+          "base_identifier": "happyhol_1",
+          "base_hash": "d332ebf8ec38ba8dd3029e29dd2b0c11",
+          "path": "patches/happyhol_2_from_happyhol_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/happyhol_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Happy Holidays!",
+      "human_version": "1.1",
+      "name": "Happy Holidays",
+      "hash": "651454c9c7dd0eec11b53e4ed239a6ba",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "islands_7",
+      "patches": [
+        {
+          "base_identifier": "islands_6",
+          "base_hash": "e15ee5b9db9e37596783d6f576781333",
+          "path": "patches/islands_7_from_islands_6.mdpatch"
+        }
+      ],
+      "description": "A fun multiplayer map on a new and unfamiliar BSP with new modded weapons.",
+      "human_version": "2.0",
+      "name": "BattleIslands",
+      "hash": "43e4eab57bb4afc655806e1e0ad1c434",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "islands_6",
+      "patches": [
+
+      ],
+      "description": "A fun multiplayer map on a new and unfamiliar BSP with new modded weapons.",
+      "human_version": "1.0",
+      "name": "BattleIslands",
+      "hash": "e15ee5b9db9e37596783d6f576781333",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sneak_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/sneak_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A small winter canyon with show hogs and twin bases.",
+      "human_version": "1.0",
+      "name": "Sneak",
+      "hash": "9e527ee44fe208313fa908216a6ea512",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "tempo_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/tempo_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Only echoes remain to greet you in this abandoned Covenant depot.",
+      "human_version": "1.0",
+      "name": "Tempo",
+      "hash": "19b8327999c24f830b908e6b550fe987",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "seclusion_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/seclusion_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "An abandoned Forerunner prison secluded from all life",
+      "human_version": "1.0",
+      "name": "Seclusion",
+      "hash": "f974350b4bfa59960c38e9460db4147a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "tensity_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/tensity_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "New unfamiliar map",
+      "human_version": "1.0",
+      "name": "Tensity",
+      "hash": "5ba7885a24365d54ae503cbb2e7ee847",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "centforce_2",
+      "patches": [
+        {
+          "base_identifier": "centforce_1",
+          "base_hash": "544e88e78af834593566696ef5352d02",
+          "path": "patches/centforce_2_from_centforce_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/centforce_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "One ring to rule them all",
+      "human_version": "2.0",
+      "name": "Centrifugal Force",
+      "hash": "83244f9b8fcdc5fefa2db116be4c7713",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_5",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_4",
+          "base_hash": "287561738d62c19e9a6e231f7aaa53c4",
+          "path": "patches/phoenix3_5_from_phoenix3_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_3",
+          "base_hash": "8b9ad2712a254240dc3ec9aa7a50b372",
+          "path": "patches/phoenix3_5_from_phoenix3_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_2",
+          "base_hash": "243661a6fb5ff085cfdf3c5d5443dc47",
+          "path": "patches/phoenix3_5_from_phoenix3_2.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.25",
+      "name": "Phoenix 3",
+      "hash": "0e21434d147c76f4fe8bf86095507d19",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "centforce_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/centforce_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "One ring to rule them all",
+      "human_version": "1.0",
+      "name": "Centrifugal Force",
+      "hash": "544e88e78af834593566696ef5352d02",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "canopy_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, a dense jungle with colorful plants and pouring rain",
+      "human_version": "1.0",
+      "name": "Canopy",
+      "hash": "51f5383105d663a2be64b849e004106a",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ewok_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ewok_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Several platforms attached to trees in a mist shrouded forrest, much as the Ewoks on Endor",
+      "human_version": "1.0",
+      "name": "Ewok",
+      "hash": "5555a8adefa9237ae03b83dc79666239",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_4",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_3",
+          "base_hash": "8b9ad2712a254240dc3ec9aa7a50b372",
+          "path": "patches/phoenix3_4_from_phoenix3_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_2",
+          "base_hash": "243661a6fb5ff085cfdf3c5d5443dc47",
+          "path": "patches/phoenix3_4_from_phoenix3_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_1",
+          "base_hash": "29714dacc2570f80a9645edb6a970c9d",
+          "path": "patches/phoenix3_4_from_phoenix3_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.2",
+      "name": "Phoenix 3",
+      "hash": "287561738d62c19e9a6e231f7aaa53c4",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mudgorge_5",
+      "patches": [
+        {
+          "base_identifier": "mudgorge_4",
+          "base_hash": "314a0698dd0b1a8fdd6eb38fbc0295ee",
+          "path": "patches/mudgorge_5_from_mudgorge_4.mdpatch"
+        },
+        {
+          "base_identifier": "mudgorge_3",
+          "base_hash": "f5c9a4f6cdf966c714cb16674486ac03",
+          "path": "patches/mudgorge_5_from_mudgorge_3.mdpatch"
+        },
+        {
+          "base_identifier": "mudgorge_2",
+          "base_hash": "e6bf3114656ee7be69ccf91dc60c8109",
+          "path": "patches/mudgorge_5_from_mudgorge_2.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mudgorge_5_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A mod based on an unfamiliar map set in a gorge.",
+      "human_version": "1.4",
+      "name": "Mudgorge",
+      "hash": "30132d0be40a9179fea1c039d095e379",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mudgorge_4",
+      "patches": [
+        {
+          "base_identifier": "mudgorge_3",
+          "base_hash": "f5c9a4f6cdf966c714cb16674486ac03",
+          "path": "patches/mudgorge_4_from_mudgorge_3.mdpatch"
+        },
+        {
+          "base_identifier": "mudgorge_2",
+          "base_hash": "e6bf3114656ee7be69ccf91dc60c8109",
+          "path": "patches/mudgorge_4_from_mudgorge_2.mdpatch"
+        },
+        {
+          "base_identifier": "mudgorge_1",
+          "base_hash": "d5597caa57a84708d9548376a57eb9b2",
+          "path": "patches/mudgorge_4_from_mudgorge_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mudgorge_4_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A mod based on an unfamiliar map set in a gorge.",
+      "human_version": "1.3",
+      "name": "Mudgorge",
+      "hash": "314a0698dd0b1a8fdd6eb38fbc0295ee",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "lock_1",
+      "patches": [
+
+      ],
+      "description": "Some believe this remote facility was once used to study the Flood. But few clues remain amidst the snow and ice.",
+      "human_version": "1",
+      "name": "Lockout",
+      "hash": "e67518210980f8ba1d08e8c485d7fab6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "blademle_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/blademle_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Melee with Pistol/Flag. Red and Blue spawn on opposite hills. Best played with attached gametype.",
+      "human_version": "1.0",
+      "name": "ßlade's Melee War",
+      "hash": "31a867831a0c3fe2da230be973cfe6a1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_3",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, an updated version of a classic map",
+      "human_version": "1.3",
+      "name": "HangemHigher",
+      "hash": "7681808204ac1031bbfa12db3c6cca0c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_3",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_2",
+          "base_hash": "243661a6fb5ff085cfdf3c5d5443dc47",
+          "path": "patches/phoenix3_3_from_phoenix3_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix3_1",
+          "base_hash": "29714dacc2570f80a9645edb6a970c9d",
+          "path": "patches/phoenix3_3_from_phoenix3_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.15",
+      "name": "Phoenix 3",
+      "hash": "8b9ad2712a254240dc3ec9aa7a50b372",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "battle_1",
+      "patches": [
+
+      ],
+      "description": "A mod with new modded weapons and new modified vehicles. A chaotic and fun map to play with friends!",
+      "human_version": "1.0",
+      "name": "BattleGround",
+      "hash": "d74504763f7253728f95d37ae3af58b1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangie_2",
+      "patches": [
+        {
+          "base_identifier": "hangem_1",
+          "base_hash": "f705ece73c00cadbb6d282fa6cb325b2",
+          "path": "patches/hangie_2_from_hangem_1.mdpatch"
+        }
+      ],
+      "description": "Part of the Halo Update series, a updated version of an old map",
+      "human_version": "1.2",
+      "name": "HangemHigher",
+      "hash": "15ca8d22e0fcb740f2ba8855485fdbe4",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_2",
+      "patches": [
+        {
+          "base_identifier": "phoenix3_1",
+          "base_hash": "29714dacc2570f80a9645edb6a970c9d",
+          "path": "patches/phoenix3_2_from_phoenix3_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.1",
+      "name": "Phoenix 3",
+      "hash": "243661a6fb5ff085cfdf3c5d5443dc47",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix3_1",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_9",
+          "base_hash": "3b4e40a979b01b88298c12b712a7eaa5",
+          "path": "patches/phoenix3_1_from_phoenix2_9.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "3.0",
+      "name": "Phoenix 3",
+      "hash": "29714dacc2570f80a9645edb6a970c9d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "gravimet_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/gravimet_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Competing gravity fields.",
+      "human_version": "1.0",
+      "name": "Gravimetrics",
+      "hash": "5cd608e0948877a5784d97130ebe57a7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "gladpit_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/gladpit_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Nowhere to hide",
+      "human_version": "1.0",
+      "name": "Gladiator Pit",
+      "hash": "44f2a2902094c2efe7ad7197898c9d67",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hangem_1",
+      "patches": [
+
+      ],
+      "description": "Part of the Halo Update series, Hang em High revised and updated",
+      "human_version": "1.0",
+      "name": "HangemHigher",
+      "hash": "f705ece73c00cadbb6d282fa6cb325b2",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "hydra_2",
+      "patches": [
+
+      ],
+      "description": "A great multiplayer Halo mod",
+      "human_version": "1.0",
+      "name": "Hydra",
+      "hash": "357d338940df176c9e9212f1736ff9a2",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "snowgulch_2",
+      "patches": [
+        {
+          "base_identifier": "snowgulch_1",
+          "base_hash": "3ac0eb61df182f721b446baac466710e",
+          "path": "patches/snowgulch_2_from_snowgulch_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/snowgulch_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch in the snow, with sniping posts in the sky. Includes a few CE weapons, too.",
+      "human_version": "0.26",
+      "name": "Snow Gulch",
+      "hash": "7d91d151485c86ac733690e31010f21f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "relicv2_3",
+      "patches": [
+        {
+          "base_identifier": "h2relic_1",
+          "base_hash": "81c38d55ef2c6176ea10bfd55a30fc51",
+          "path": "patches/relicv2_3_from_h2relic_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/relicv2_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Halo 2 style, an island in the middle of the ocean.",
+      "human_version": "2.0",
+      "name": "Relic",
+      "hash": "3093843a30083ff88b6e8730de5c3dd5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ruinsv2_7",
+      "patches": [
+        {
+          "base_identifier": "ruins2_2",
+          "base_hash": "cd9ab82a08d55925aae757f9f07b3d30",
+          "path": "patches/ruinsv2_7_from_ruins2_2.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ruinsv2_7_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "When night falls on Relic, the Elites come out",
+      "human_version": "2.7",
+      "name": "Ruins",
+      "hash": "ca362ea0fe540ddeb539f50196ad0c94",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "a30reflect_1",
+      "patches": [
+
+      ],
+      "description": "Arcade arena CTF or Slayer",
+      "human_version": "1.0",
+      "name": "A30 Reflection",
+      "hash": "a53c453a6bdb71f58aa9d98988e582e1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "a30multi_3",
+      "patches": [
+
+      ],
+      "description": "The second area of \"Halo\", the second Halo campaign level, revised for multiplayer.",
+      "human_version": "1.0",
+      "name": "A30 Multiplayer",
+      "hash": "8a91c522f4095c9844a694b2449056ce",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_9",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_8",
+          "base_hash": "2ac5485823a319fc82e5b6736a950143",
+          "path": "patches/phoenix2_9_from_phoenix2_8.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_7",
+          "base_hash": "ca0ac44645a2e7f2e60ead6479f57454",
+          "path": "patches/phoenix2_9_from_phoenix2_7.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_6",
+          "base_hash": "9180bfb2a6e5746ecd12f52d095c2cbb",
+          "path": "patches/phoenix2_9_from_phoenix2_6.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.8",
+      "name": "Phoenix 2",
+      "hash": "3b4e40a979b01b88298c12b712a7eaa5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bridge_4",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bridge_4_from_bloodgulch.mdpatch"
+        },
+        {
+          "base_identifier": "helix_1",
+          "base_hash": "eff1ee39d88055082530ff78a7b3b0a7",
+          "path": "patches/bridge_4_from_helix_1.mdpatch"
+        }
+      ],
+      "description": "A mod based on Helix Canyon's BSP with new modded weapons created by Pyrhex",
+      "human_version": "1.0",
+      "name": "Pyrhex Bridge",
+      "hash": "e1582bb730ee7ac10e886ca2f80e4510",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "zanzibar_1",
+      "patches": [
+
+      ],
+      "description": "Halo 2 style, a wind power station with a beach",
+      "human_version": "1.0",
+      "name": "Zanzibar",
+      "hash": "537d0b1478590943efe48e5c69673623",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "coagulat_1",
+      "patches": [
+
+      ],
+      "description": "Halo 2 style, a large valley with two bases at each end",
+      "human_version": "1.0",
+      "name": "Coagulation",
+      "hash": "2cecf214bc3eed7c49b0e02262bb8481",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "aurtle_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/aurtle_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with a Laser Gun and play just like real life Laser Gaming!",
+      "human_version": "1.0",
+      "name": "Aureole TLE",
+      "hash": "4a82ca4e9c5af792fc6577faa322fdd6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ivorytower_1",
+      "patches": [
+
+      ],
+      "description": "Halo 2 style, map located indoors in a somewhat tropical, sightseeing environment.",
+      "human_version": "1.0",
+      "name": "Ivory Tower",
+      "hash": "c8a75759e64cc2e80a6c05e856632aa6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ruins2_2",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ruins2_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A variation of the mod Relic, play as an Elite, with covenant vehicles and new secrets",
+      "human_version": "2.0",
+      "name": "Ruins",
+      "hash": "cd9ab82a08d55925aae757f9f07b3d30",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_8",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_7",
+          "base_hash": "ca0ac44645a2e7f2e60ead6479f57454",
+          "path": "patches/phoenix2_8_from_phoenix2_7.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_6",
+          "base_hash": "9180bfb2a6e5746ecd12f52d095c2cbb",
+          "path": "patches/phoenix2_8_from_phoenix2_6.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_5",
+          "base_hash": "a9f913309b06e390cfbea15d3b7b4623",
+          "path": "patches/phoenix2_8_from_phoenix2_5.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_4",
+          "base_hash": "508806dfb82ae6b16b1914957752cd3f",
+          "path": "patches/phoenix2_8_from_phoenix2_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_3",
+          "base_hash": "5257985639f3df6152c9f9a57becff17",
+          "path": "patches/phoenix2_8_from_phoenix2_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_8_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_8_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.7",
+      "name": "Phoenix 2",
+      "hash": "2ac5485823a319fc82e5b6736a950143",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "graveyard_1",
+      "patches": [
+
+      ],
+      "description": "A spooky map set in a graveyard!",
+      "human_version": "1.0",
+      "name": "Graveyard",
+      "hash": "e2a3513e000d3b6adcc2df0bd2e9eb24",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sanctuary_7",
+      "patches": [
+
+      ],
+      "description": "Halo 2 style, old building with waterfalls surrounding it",
+      "human_version": "1.0",
+      "name": "Sanctuary",
+      "hash": "a4fb049bf79f1593c097b018a87791d8",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "headlong_2",
+      "patches": [
+        {
+          "base_identifier": "headlong_1",
+          "base_hash": "84f4791b0e9e81557a92db38375d83a6",
+          "path": "patches/headlong_2_from_headlong_1.mdpatch"
+        }
+      ],
+      "description": "Set in the city of new Mombassa and is a great 8-12 player map",
+      "human_version": "2.0",
+      "name": "Headlong",
+      "hash": "3a2f1daa4dbb0d4096fd7ca38fd28d4c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "turf2_1",
+      "patches": [
+
+      ],
+      "description": "Halo 2 style, small, fun and urban map set in the city of new Mombassa",
+      "human_version": "1.0",
+      "name": "Turf",
+      "hash": "562a30f1c925addf9a03ac6f04516a6e",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mystic_1",
+      "patches": [
+
+      ],
+      "description": "A secret valley with two forest shrines, has a Legend of Zelda Ocarina of Time feel to it!",
+      "human_version": "1.0",
+      "name": "Mystic",
+      "hash": "36885ab59020f723b993fe4de30d09bd",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "h2relic_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/h2relic_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A map set on an island in the middle of the ocean",
+      "human_version": "1.0",
+      "name": "Relic",
+      "hash": "81c38d55ef2c6176ea10bfd55a30fc51",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "headlong_1",
+      "patches": [
+
+      ],
+      "description": "Set in the city of new Mombasa and is a great 8-12 player map.",
+      "human_version": "1.0",
+      "name": "Headlong",
+      "hash": "84f4791b0e9e81557a92db38375d83a6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bumpcars_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bumpcars_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Civi Hogs, no weapons, and no splatter.",
+      "human_version": "1.0",
+      "name": "Bumper Cars",
+      "hash": "ecd1edc35d674d91e3621fccb4370c07",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "h3valhall_2",
+      "patches": [
+        {
+          "base_identifier": "h3valhall_1",
+          "base_hash": "b7287ddc1d6293fd41b57cfa9977c1e1",
+          "path": "patches/h3valhall_2_from_h3valhall_1.mdpatch"
+        }
+      ],
+      "description": "A remake of the map Valhalla from Halo 3.",
+      "human_version": "1.01",
+      "name": "H3 Valhalla",
+      "hash": "f06dd4572289bb92e5614b4c3cfc0ff6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "reachgulch_2",
+      "patches": [
+
+      ],
+      "description": "A mod that includes multiple halo reach weapons, hud, skybox, and more.",
+      "human_version": "1.0",
+      "name": "Reach Gulch 4",
+      "hash": "16c5304b6d45c4c6acf353db1acf7448",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "h3valhall_1",
+      "patches": [
+
+      ],
+      "description": "A remake of the map Valhalla from Halo 3.",
+      "human_version": "1.0",
+      "name": "H3 Valhalla",
+      "hash": "b7287ddc1d6293fd41b57cfa9977c1e1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "sandtrap3_1",
+      "description": "A map from Halo 3 remade for HaloMD in the desert.",
+      "human_version": "1.0",
+      "name": "SandTrap 3",
+      "hash": "30c5c84549a99aedb0d17faafb8bc558",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "ctii_6",
+      "patches": [
+        {
+          "base_identifier": "ctii_5",
+          "base_hash": "12912a35e5b1de287e9ab34d855248a5",
+          "path": "patches/ctii_6_from_ctii_5.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_3",
+          "base_hash": "a71cb24d8f080f432228b27b8da29a11",
+          "path": "patches/ctii_6_from_ctii_3.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_2",
+          "base_hash": "5ba17da150e5e442a30e05010cc03ae6",
+          "path": "patches/ctii_6_from_ctii_2.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_1",
+          "base_hash": "b1fa913d55ec696252a174c3f90f05cf",
+          "path": "patches/ctii_6_from_ctii_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ctii_6_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Lots of projectile switches and includes new weapons with Cave Teles as its base map",
+      "human_version": "6.0",
+      "name": "CTII",
+      "hash": "9c14af9805b9e63def027e2f3b140052",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ctii_5",
+      "patches": [
+        {
+          "base_identifier": "ctii_3",
+          "base_hash": "a71cb24d8f080f432228b27b8da29a11",
+          "path": "patches/ctii_5_from_ctii_3.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_2",
+          "base_hash": "5ba17da150e5e442a30e05010cc03ae6",
+          "path": "patches/ctii_5_from_ctii_2.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_1",
+          "base_hash": "b1fa913d55ec696252a174c3f90f05cf",
+          "path": "patches/ctii_5_from_ctii_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ctii_5_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with pistol, sniper, and shotgun",
+      "human_version": "5.0",
+      "name": "CTII",
+      "hash": "12912a35e5b1de287e9ab34d855248a5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "darkaether_2",
+      "patches": [
+        {
+          "base_identifier": "darkaether_1",
+          "base_hash": "8628f047b1acbb68fff5f1c27be75139",
+          "path": "patches/darkaether_2_from_darkaether_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/darkaether_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A gaian twist of the Assault on the Control Room, made for a full house.",
+      "human_version": "1.0.0",
+      "name": "Dark Aether",
+      "hash": "8de91a81babc7012e1d2e904a8a06a37",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ctii_3",
+      "patches": [
+        {
+          "base_identifier": "ctii_2",
+          "base_hash": "5ba17da150e5e442a30e05010cc03ae6",
+          "path": "patches/ctii_3_from_ctii_2.mdpatch"
+        },
+        {
+          "base_identifier": "ctii_1",
+          "base_hash": "b1fa913d55ec696252a174c3f90f05cf",
+          "path": "patches/ctii_3_from_ctii_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ctii_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with pistol, sniper, and shotgun",
+      "human_version": "3.0",
+      "name": "CTII",
+      "hash": "a71cb24d8f080f432228b27b8da29a11",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ctii_2",
+      "patches": [
+        {
+          "base_identifier": "ctii_1",
+          "base_hash": "b1fa913d55ec696252a174c3f90f05cf",
+          "path": "patches/ctii_2_from_ctii_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ctii_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with pistol, sniper, and shotgun",
+      "human_version": "2.0",
+      "name": "CTII",
+      "hash": "5ba17da150e5e442a30e05010cc03ae6",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "darkaether_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/darkaether_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A gaian twist of the Assault on the Control Room, made for a full house.",
+      "human_version": "0.9",
+      "name": "Dark Aether",
+      "hash": "8628f047b1acbb68fff5f1c27be75139",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ctii_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ctii_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with pistol, sniper, and shotgun",
+      "human_version": "1.0",
+      "name": "CTII",
+      "hash": "b1fa913d55ec696252a174c3f90f05cf",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "declare_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/declare_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A small playable CE map originally used for learning how to make a CE map.",
+      "human_version": "1.0",
+      "name": "Declaration 0x4D610000",
+      "hash": "ffc86fae7a06d562434e97e0d5842946",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_6",
+      "patches": [
+        {
+          "base_identifier": "heatsinks_5",
+          "base_hash": "c0e24c8c30d9ce192c10baa27646b232",
+          "path": "patches/heatsinks_6_from_heatsinks_5.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_4",
+          "base_hash": "fb82b4b8586b396551fc8dfbbc1461ac",
+          "path": "patches/heatsinks_6_from_heatsinks_4.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_3",
+          "base_hash": "7c39cfc177b03fea238c51187ed4cc6d",
+          "path": "patches/heatsinks_6_from_heatsinks_3.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_2",
+          "base_hash": "2ef339566555a31921961c0cd7887d11",
+          "path": "patches/heatsinks_6_from_heatsinks_2.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_1",
+          "base_hash": "94a661c88319f7ef0db9ae10cff9ca75",
+          "path": "patches/heatsinks_6_from_heatsinks_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_6_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.6",
+      "name": "Heatsinks",
+      "hash": "6b409ba36fdb5a82c7500a572440d66d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_5",
+      "patches": [
+        {
+          "base_identifier": "heatsinks_4",
+          "base_hash": "fb82b4b8586b396551fc8dfbbc1461ac",
+          "path": "patches/heatsinks_5_from_heatsinks_4.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_3",
+          "base_hash": "7c39cfc177b03fea238c51187ed4cc6d",
+          "path": "patches/heatsinks_5_from_heatsinks_3.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_2",
+          "base_hash": "2ef339566555a31921961c0cd7887d11",
+          "path": "patches/heatsinks_5_from_heatsinks_2.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_1",
+          "base_hash": "94a661c88319f7ef0db9ae10cff9ca75",
+          "path": "patches/heatsinks_5_from_heatsinks_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_5_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.5",
+      "name": "Heatsinks",
+      "hash": "c0e24c8c30d9ce192c10baa27646b232",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "spartrain_2",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/spartrain_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Keep your opponent's shields down.",
+      "human_version": "Revision 2",
+      "name": "Spar Training",
+      "hash": "c7978c5314c9c9ee0e0bd8edc8d19c26",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_7",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_6",
+          "base_hash": "9180bfb2a6e5746ecd12f52d095c2cbb",
+          "path": "patches/phoenix2_7_from_phoenix2_6.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_5",
+          "base_hash": "a9f913309b06e390cfbea15d3b7b4623",
+          "path": "patches/phoenix2_7_from_phoenix2_5.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_4",
+          "base_hash": "508806dfb82ae6b16b1914957752cd3f",
+          "path": "patches/phoenix2_7_from_phoenix2_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_3",
+          "base_hash": "5257985639f3df6152c9f9a57becff17",
+          "path": "patches/phoenix2_7_from_phoenix2_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_7_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_7_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.6",
+      "name": "Phoenix 2",
+      "hash": "ca0ac44645a2e7f2e60ead6479f57454",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "halo4css_2",
+      "patches": [
+        {
+          "base_identifier": "halo4css_1",
+          "base_hash": "849fe3dcfdfc20c9162f388a815ab298",
+          "path": "patches/halo4css_2_from_halo4css_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/halo4css_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "An attempt to make an exact replica of Halo 4 weapons and gameplay in CSS.",
+      "human_version": "2.0",
+      "name": "Halo 4 CSS",
+      "hash": "4e2d8bd1613c66aedd247552f1bbce89",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "caveteles_2",
+      "patches": [
+        {
+          "base_identifier": "caveteles_1",
+          "base_hash": "84796cc3f3ab6c294257c427e31972a0",
+          "path": "patches/caveteles_2_from_caveteles_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/caveteles_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch revamped with teleporters in the caves and other changes.",
+      "human_version": "1.1",
+      "name": "Cave Teles",
+      "hash": "1fcf9916f7876afc60bf53e2e5875578",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "rainbowroa_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rainbowroa_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play Rainbow Road, like in Mario Kart!",
+      "human_version": "1.0",
+      "name": "Rainbow Road",
+      "hash": "995b3cbdfc7ecadd8102b55a57122cf5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_4",
+      "patches": [
+        {
+          "base_identifier": "heatsinks_3",
+          "base_hash": "7c39cfc177b03fea238c51187ed4cc6d",
+          "path": "patches/heatsinks_4_from_heatsinks_3.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_2",
+          "base_hash": "2ef339566555a31921961c0cd7887d11",
+          "path": "patches/heatsinks_4_from_heatsinks_2.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_1",
+          "base_hash": "94a661c88319f7ef0db9ae10cff9ca75",
+          "path": "patches/heatsinks_4_from_heatsinks_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_4_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.4",
+      "name": "Heatsinks",
+      "hash": "fb82b4b8586b396551fc8dfbbc1461ac",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "concrete_3",
+      "patches": [
+        {
+          "base_identifier": "concrete_2",
+          "base_hash": "aa278d0e9c56e03943da4708760a3f16",
+          "path": "patches/concrete_3_from_concrete_2.mdpatch"
+        },
+        {
+          "base_identifier": "concrete_1",
+          "base_hash": "4347b3d97239a598fbe5a8d026b6e0d9",
+          "path": "patches/concrete_3_from_concrete_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/concrete_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Concrete and cinderblocks, developed with Sparky's Bitmaps and Sounds Collection, Building Blocks and SparkMusic.",
+      "human_version": "1.2",
+      "name": "Concretely Cemented, Completely Demented",
+      "hash": "e24f8e12aac40d700a92b2bd3d2e5ef7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "concrete_2",
+      "patches": [
+        {
+          "base_identifier": "concrete_1",
+          "base_hash": "4347b3d97239a598fbe5a8d026b6e0d9",
+          "path": "patches/concrete_2_from_concrete_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/concrete_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Concrete and cinderblocks, developed with Sparky's Bitmaps and Sounds Collection, Building Blocks and SparkMusic.",
+      "human_version": "1.1",
+      "name": "Concretely Cemented, Completely Demented",
+      "hash": "aa278d0e9c56e03943da4708760a3f16",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "caveteles_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/caveteles_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch revamped with teleporters in the caves and other changes.",
+      "human_version": "1.0",
+      "name": "Cave Teles",
+      "hash": "84796cc3f3ab6c294257c427e31972a0",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_6",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_5",
+          "base_hash": "a9f913309b06e390cfbea15d3b7b4623",
+          "path": "patches/phoenix2_6_from_phoenix2_5.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_4",
+          "base_hash": "508806dfb82ae6b16b1914957752cd3f",
+          "path": "patches/phoenix2_6_from_phoenix2_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_3",
+          "base_hash": "5257985639f3df6152c9f9a57becff17",
+          "path": "patches/phoenix2_6_from_phoenix2_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_6_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_6_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.5",
+      "name": "Phoenix 2",
+      "hash": "9180bfb2a6e5746ecd12f52d095c2cbb",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "concrete_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/concrete_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Concrete and cinderblocks, developed with Sparky's Bitmaps and Sounds Collection, Building Blocks and SparkMusic.",
+      "human_version": "1.0",
+      "name": "Concretely Cemented, Completely Demented",
+      "hash": "4347b3d97239a598fbe5a8d026b6e0d9",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_3",
+      "patches": [
+        {
+          "base_identifier": "heatsinks_2",
+          "base_hash": "2ef339566555a31921961c0cd7887d11",
+          "path": "patches/heatsinks_3_from_heatsinks_2.mdpatch"
+        },
+        {
+          "base_identifier": "heatsinks_1",
+          "base_hash": "94a661c88319f7ef0db9ae10cff9ca75",
+          "path": "patches/heatsinks_3_from_heatsinks_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.3",
+      "name": "Heatsinks",
+      "hash": "7c39cfc177b03fea238c51187ed4cc6d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "logxtreme_2",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/logxtreme_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Start with two log guns and an eraser, to make a map out of logs!",
+      "human_version": "2.0",
+      "name": "Log Mod Extreme",
+      "hash": "d710de972e40f4640dab9716b49791ae",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "covenantpg_1",
+      "description": "This is a map where the Covenant Aliens have shown their presence by converting human weapons and re-landscaping the map. It modifies the Deep Space Arena mod.",
+      "human_version": "1.0",
+      "name": "Covenant Playground",
+      "hash": "b4fd22528575860d6ec2ff69ab0389f0",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "omega_1",
+      "description": "Omega is a new map which includes a space BSP with a map made out of scenery.",
+      "human_version": "1.0",
+      "name": "Omega",
+      "hash": "e544e29340e2b6d5d90d979b845ab1d2",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "gwhp2_1",
+      "description": "The covenant hangar bay (from a50.map in Halo Full) to be featured in Galaxy Wars.",
+      "human_version": "2.0",
+      "name": "Galaxy Wars - Hangar Preview",
+      "hash": "215c0b9196a10ae953e0dd913dad4d99",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "gwesmultb1_1",
+      "description": "Contains a single player galactic war campaign and the multiplayer aftermath.",
+      "human_version": "Beta 1",
+      "name": "Galaxy Wars Epic Series",
+      "hash": "918e9d91f1e8895e6451dbcd0e9ed1e2",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "rswctfodd_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rswctfodd_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with random weapons; oriented towards CTF and oddball gametypes.",
+      "human_version": "1.0",
+      "name": "Random Starting Weapons Series - CTF Oddball",
+      "hash": "ea3242bd01eb8f79877a9ba171353431",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "desertmult_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/desertmult_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Four desert bloodgulch terrains and your survival skills!",
+      "human_version": "2.0",
+      "name": "Desert Multigulch",
+      "hash": "73b857fb2ff52483829b4e453bc9ee17",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "thegrid_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/thegrid_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "The forces that be have slammed a grid of walls on top of bloodgulch.",
+      "human_version": "1.1",
+      "name": "The Grid",
+      "hash": "83cd1da0ea41e00e772ac9ae17917cee",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "telepara_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/telepara_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Strategically-placed teleporters litter the map.",
+      "human_version": "1.0",
+      "name": "Teleporter Paradise",
+      "hash": "f352f176d67f483d11a381e665a017fd",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "rainforesa_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rainforesa_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play bloodgulch in a joyful rainforest setting.",
+      "human_version": "1.0",
+      "name": "Environments Mod Series - Rainforest of Joy",
+      "hash": "e983120549ec744d5dc5a084581bf6bb",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "morningdew_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/morningdew_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play bloodgulch in a morning dew setting.",
+      "human_version": "Volume 1, Issue 2",
+      "name": "Environments Mod Series - Morning Dew",
+      "hash": "bbe4d2f004ac842bf17e0f331b2f5644",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "spew_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/spew_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Weapons spew all their ammo at once.",
+      "human_version": "1.0",
+      "name": "Spew",
+      "hash": "7812a34f6345d3f5642e9d228aef60dc",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "cliffgulch_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/cliffgulch_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This map was made to fulfill a request to add more cliffs to Bloodgulch, and I also added a tunnel with two concealed entrances. You can consider this a template or a mod, because it is otherwise undeveloped beyond the normal bloodgulch. Version 2.0 adds more tunnels. Future versions will be built up to make this much more fun.",
+      "human_version": "2.0",
+      "name": "Cliffgulch Tunnels",
+      "hash": "7e2c4dc5b7ce3c0ca96645e26ae071eb",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "logxtreme_1",
+      "description": "Start with the loggun and eraser to make things out of logs!",
+      "human_version": "1.0",
+      "name": "Log Mod Extreme",
+      "hash": "f5241a5c7916be0e3a2181ede38b655a",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "sphere_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/sphere_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "TG-602, A.K.A Sphere, was a training ground constructed to combat the UNSC's deficiencies in low gravity firefights. The curvature of the structure coupled with the magnetic capabilities of the MJOLNIR armor forces soldiers to take a whole new perspective on firefights.",
+      "human_version": "1.0",
+      "name": "Sphere",
+      "hash": "dbbce5020ba935e55d70235c5eca44a1",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "spaceslope_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/spaceslope_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This mod takes a new angle on space combat!",
+      "human_version": "1.0",
+      "name": "Space Slopes",
+      "hash": "6c3494c3d57010baa338fe128080a95d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "ricochetbu_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/ricochetbu_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bullets ricochet off rocks and metal.",
+      "human_version": "1.0",
+      "name": "Ricocheting Bullets",
+      "hash": "257c8fd0eb29bd2b0728f1d67d646724",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "nuclearfal_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/nuclearfal_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A horror environment that changes bitmaps, lighting, user interface, and the overall appearance of the map.",
+      "human_version": "1.0",
+      "name": "Nuclear Fallout",
+      "hash": "790e248303a291a470a03e8487e60205",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "nightmaps_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/nightmaps_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch with actual night lightmaps and custom sky. Not pitch black, but no sunlight.",
+      "human_version": "1.0",
+      "name": "Nightmaps",
+      "hash": "11b11879c7b36076e637ae836b12d7e8",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "snowynight_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/snowynight_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play on a snowy night setting.",
+      "human_version": "Volume 1, Issue 2",
+      "name": "Environments Mod Series - Snowy Night",
+      "hash": "0ef071955e8dce876044f38839ccd090",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "scarynight_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/scarynight_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play on a scary night setting.",
+      "human_version": "Volume 1, Issue 2",
+      "name": "Environments Mod Series - Scary Night",
+      "hash": "72956929d08383d2de7b46aa31d1fb5c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "rainfora_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/rainfora_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play in a rainforest of doom.",
+      "human_version": "1.0",
+      "name": "Environments Mod Series - Rainforest of Doom",
+      "hash": "001223dc35bdac82de8fb31588240365",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "emslavapit_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/emslavapit_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play in the middle of a volcano! (Marshmallows optional.)",
+      "human_version": "Volume 2, Issue 1",
+      "name": "Environments Mod Series - Lava Canyon",
+      "hash": "1bb3a8cac81a3f1e3fd60cf41c5bb486",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "emsblizz_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/emsblizz_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play bloodgulch in a blizzard.",
+      "human_version": "Volume 1, Issue 2",
+      "name": "Environments Mod Series - Blizzard",
+      "hash": "665af53f549ac1a02646a92db6c3dd0f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "deepspace_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/deepspace_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "An entirely new map containing light bridges, doors, platforms, and a great deal of darkness. Careful, watch your step.",
+      "human_version": "1.0",
+      "name": "Deep Space Arena",
+      "hash": "4c86f8e0757cb4f5d8933c0007979cce",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "css101_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/css101_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A small CSS mod with a theme - the Red Team gets camouflage and the Blue Team gets defensive covenant turrets. Equipment modifications and other CSS changes are present, including relocated and removed teleporters and additional powerups.",
+      "human_version": "1.0",
+      "name": "CSS 101",
+      "hash": "101a48ca1ea3e13b7675a73aaf86682d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "alienhome_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/alienhome_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "You play as a spartan who has adapted to an alien homeworld. Inspired by, and features music from, the Aliens vs. Predator game.",
+      "human_version": "1.0",
+      "name": "Alien Homeworld",
+      "hash": "097f3fa0c5bce60504eebb6fc6e521a4",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "flatgulch_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/flatgulch_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play bloodgulch on a completely flat plain!",
+      "human_version": "1.0",
+      "name": "Flat Gulch",
+      "hash": "887b8c52e392b158a1ae357915815b25",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "we_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/we_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Physics, Weapons and Vehicles have all evolved.",
+      "human_version": "3.22",
+      "name": "Weapons Evolved",
+      "hash": "5361f96f8c686759c380d0f56df256d7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_2",
+      "patches": [
+        {
+          "base_identifier": "heatsinks_1",
+          "base_hash": "94a661c88319f7ef0db9ae10cff9ca75",
+          "path": "patches/heatsinks_2_from_heatsinks_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.2",
+      "name": "Heatsinks",
+      "hash": "2ef339566555a31921961c0cd7887d11",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_5",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_4",
+          "base_hash": "508806dfb82ae6b16b1914957752cd3f",
+          "path": "patches/phoenix2_5_from_phoenix2_4.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_3",
+          "base_hash": "5257985639f3df6152c9f9a57becff17",
+          "path": "patches/phoenix2_5_from_phoenix2_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_5_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_5_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.4",
+      "name": "Phoenix 2",
+      "hash": "a9f913309b06e390cfbea15d3b7b4623",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heatsinks_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heatsinks_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "All weapons have infinite regenerating ammo.",
+      "human_version": "0.1",
+      "name": "Heatsinks",
+      "hash": "94a661c88319f7ef0db9ae10cff9ca75",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_4",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_3",
+          "base_hash": "5257985639f3df6152c9f9a57becff17",
+          "path": "patches/phoenix2_4_from_phoenix2_3.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_4_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_4_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.3",
+      "name": "Phoenix 2",
+      "hash": "508806dfb82ae6b16b1914957752cd3f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mudgorge_3",
+      "patches": [
+        {
+          "base_identifier": "mudgorge_2",
+          "base_hash": "e6bf3114656ee7be69ccf91dc60c8109",
+          "path": "patches/mudgorge_3_from_mudgorge_2.mdpatch"
+        },
+        {
+          "base_identifier": "mudgorge_1",
+          "base_hash": "d5597caa57a84708d9548376a57eb9b2",
+          "path": "patches/mudgorge_3_from_mudgorge_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mudgorge_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A mod based on an unfamiliar map set in a gorge.",
+      "human_version": "1.2",
+      "name": "Mudgorge",
+      "hash": "f5c9a4f6cdf966c714cb16674486ac03",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mudgorge_2",
+      "patches": [
+        {
+          "base_identifier": "mudgorge_1",
+          "base_hash": "d5597caa57a84708d9548376a57eb9b2",
+          "path": "patches/mudgorge_2_from_mudgorge_1.mdpatch"
+        },
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mudgorge_2_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A mod based on an unfamiliar map set in a gorge.",
+      "human_version": "1.1",
+      "name": "Mudgorge",
+      "hash": "e6bf3114656ee7be69ccf91dc60c8109",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mudgorge_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mudgorge_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A mod based on an unfamiliar map set in a gorge.",
+      "human_version": "1.0",
+      "name": "Mudgorge",
+      "hash": "d5597caa57a84708d9548376a57eb9b2",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_3",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_2",
+          "base_hash": "fe703f9476444a2b851300eb7490b100",
+          "path": "patches/phoenix2_3_from_phoenix2_2.mdpatch"
+        },
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix2_3_from_phoenix2_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.2",
+      "name": "Phoenix 2",
+      "hash": "5257985639f3df6152c9f9a57becff17",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "halo4css_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/halo4css_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "An attempt to make an exact replica of Halo 4 weapons and gameplay in CSS.",
+      "human_version": "1",
+      "name": "Halo 4 CSS",
+      "hash": "849fe3dcfdfc20c9162f388a815ab298",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_2",
+      "patches": [
+        {
+          "base_identifier": "phoenix2_1",
+          "base_hash": "94df445c8c082c7fc8e989b8b14fc964",
+          "path": "patches/phoenix_2_from_1.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map; can only be played with 14 players max.",
+      "human_version": "1.1",
+      "name": "Phoenix 2",
+      "hash": "fe703f9476444a2b851300eb7490b100",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "phoenix2_1",
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map; can only be played with 14 players max.",
+      "human_version": "1.0",
+      "name": "Phoenix 2",
+      "hash": "94df445c8c082c7fc8e989b8b14fc964",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "parallax_2",
+      "patches": [
+        {
+          "base_identifier": "parallax_1",
+          "base_hash": "b88f9999f0635f50c61b2963b82af040",
+          "path": "patches/parallax_1to2.mdpatch"
+        }
+      ],
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.01",
+      "name": "Parallax Redux",
+      "hash": "9916fc3dd965989b9c9bb0735ce43889",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "parallax_1",
+      "description": "A total gameplay and visual effects mod based on an unfamiliar map.",
+      "human_version": "1.0",
+      "name": "Parallax Redux",
+      "hash": "b88f9999f0635f50c61b2963b82af040",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "claust_2",
+      "description": "Scared of small places?",
+      "human_version": "1.0",
+      "name": "Claustrophobia",
+      "hash": "5992d09ff7e6451a1b730be21ee29f96",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "helix_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/helix_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "A forerunner canyon, built to the shape of a helix. Where bloody battles, and confrontations take place.",
+      "human_version": "1.0",
+      "name": "Helix Canyon",
+      "hash": "eff1ee39d88055082530ff78a7b3b0a7",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "deagle_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/deagle_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This is a simple arena/maze map from cs:s gun game.",
+      "human_version": "1.0",
+      "name": "Deagle6",
+      "hash": "784372ed83cba07050478be03739de90",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bune_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/bune_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Set in Halos mountains this forunner installation was meant for unknown things; a waterfall has corroded the big room and filled it with water.",
+      "human_version": "1.0",
+      "name": "Bune",
+      "hash": "4ef5e1c919122df0391458a3979a865c",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "yoyorastv2_1",
+      "description": "A sequel to v1, a highly convoluted Island complex.",
+      "human_version": "1.0",
+      "name": "Yoyorast Island v2",
+      "hash": "5772fdd5e328be224a43499938213430",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "mgmsuper_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mgmsuper_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This mod was created by various modders for the sake of... hell, there was no reason. Only insanity.",
+      "human_version": "1.0",
+      "name": "MGM Super Mod",
+      "hash": "a9b6c8f940af2344090a7dfc9b651231",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "dimension_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/dimension_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This is a test map for the original. It has several weapon and vehicle changes.",
+      "human_version": "1.0",
+      "name": "Dimensional Planes",
+      "hash": "4de50242506719de6ab23b3560900f5d",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "construct_1",
+      "description": "Shaft mod by Taxi. Standard and custom weapons and shit.",
+      "human_version": "1.0",
+      "name": "Construct",
+      "hash": "59f798be95808e3185707d587e73c927",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "highlow_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/highlow_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Blood Gulch, Battle Creek, and Icefields together make?",
+      "human_version": "1.0",
+      "name": "High Low",
+      "hash": "35af8f693dbbde61730e35dc78bafafa",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "corrupted_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/corrupted_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Deep in the center of the mountain are a group of prison cells.",
+      "human_version": "1.0",
+      "name": "Corrupted",
+      "hash": "e29ce8dff9f03f456ba7bd25d033d3f0",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "solitude_1",
+      "description": "Great 6-12-player map.",
+      "human_version": "1.0",
+      "name": "Solitude",
+      "hash": "98527fadee4ec9ec82b5b5092eb0cced",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "shaftkw_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/shaftkw_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "The Clanhalo version of b30 converted into a playable multiplayer map.",
+      "human_version": "1.0",
+      "name": "The Shaft",
+      "hash": "6c836c7d38310abf94e3f83feceea6d3",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "volcanoyo_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/volcanoyo_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch set in a volcano.",
+      "human_version": "1.0",
+      "name": "Volcano",
+      "hash": "9fcf05f8aff640f74f9ac87058f7de2b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "satellite_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/satellite_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Adventure around the satellite.",
+      "human_version": "1.0",
+      "name": "Satellite",
+      "hash": "91181d43d173970a259ebe6caed9dfdc",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "mgmcollab_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/mgmcollab_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "The Mac Gaming Mods Weaponry Collaboration features all new weapons and revamped vehicles in a rich blizzard environment.",
+      "human_version": "0.5",
+      "name": "MGM Collab",
+      "hash": "77f394bac54f4cccbb0ce11592292602",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "heh_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/heh_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Changes: Flying warthogs, Ghosts, a tank, the warthogs can fire grenades, the ghosts fire overcharged plasma pistol shots, super jump and wall walking.",
+      "human_version": "1.0",
+      "name": "Hell Gulch",
+      "hash": "1bd786385cbf38299822092ec4ce616f",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "alternate_1",
+      "description": "After being subjected to an electron radiation shower caused by a local gravimetric anomaly in space, Halo's teleportation devices began behaving strangely.",
+      "human_version": "1.2",
+      "name": "Alternate Universe",
+      "hash": "d16ebd37390a2177efd45a405bc7ed68",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "acrophobia_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/acrophobia_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "This mod is based above the island on some platforms. Hence the name Acrophobia(fear of heights).",
+      "human_version": "1.0",
+      "name": "Acrophobia",
+      "hash": "f84706579469bb5a62f5410f5ef60327",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "blizzard_2",
+      "description": "This mod takes place in new BSP. No more bloodgulch or island.",
+      "human_version": "1.0",
+      "name": "Blizzard",
+      "hash": "46b8d78f2bd2f66ba3d0b68a62fb10aa",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "theisland_3",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/theisland_3_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "An Island.",
+      "human_version": "1.0",
+      "name": "The Island",
+      "hash": "9a027ef42204bd770c6f45ba02f06f88",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "yoyorast_2",
+      "description": "A highly convoluted Island complex.",
+      "human_version": "1.0",
+      "name": "Yoyorast Island",
+      "hash": "751f58e4325fb4af4e990f68551b9f65",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "yoyorast_1",
+      "description": "A highly convoluted Island complex.",
+      "human_version": "0.9",
+      "name": "Yoyorast Island",
+      "hash": "d0b11d7cc10c7063e465259c8537eaf7",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "happyhol_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/happyhol_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Happy Holidays!",
+      "human_version": "1.0",
+      "name": "Happy Holidays",
+      "hash": "d332ebf8ec38ba8dd3029e29dd2b0c11",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "za_1",
+      "description": "Survive the Zombie Apocalypse!",
+      "human_version": "1.0",
+      "name": "Zombie Apocalypse",
+      "hash": "44498226687565d93a940b3ab4dbd9a3",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "triforce_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/triforce_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Spawn with a pistol, shotgun, and sniper rifle on Blood Gulch.",
+      "human_version": "1.0",
+      "name": "Triforce",
+      "hash": "50bc545030e01430baed282c166d6c6b",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "depot_3",
+      "description": "The map is based in a small covenant storage checkpoint, where they transfer supplies ship-surface.",
+      "human_version": "1.1",
+      "name": "Depot",
+      "hash": "b1cb0f3a79923bc81469d297743cd90d",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "depot_1",
+      "description": "The map is based in a small covenant storage checkpoint, where they transfer supplies ship-surface.",
+      "human_version": "1.0",
+      "name": "Depot",
+      "hash": "876fe7a30ef017f6f5509302c871ccf5",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "a30_8",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/a30_8_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play the first part of the second campaign level in multiplayer! Have huge battles in your favorite campaign level.",
+      "human_version": "0.9.5",
+      "name": "Halo: The Multiplayer Experience",
+      "hash": "cbe124c1d324be185a96e3632bcfe4a4",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "a30bg_3",
+      "description": "Play the first part of the second campaign level in multiplayer! Have huge battles in your favorite campaign level.",
+      "human_version": "0.9",
+      "name": "Halo: The Multiplayer Experience",
+      "hash": "87c6417ca20d703d943d87608752f544",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "a30bg_1",
+      "description": "Play the first part of the second campaign level in multiplayer! Have huge battles in your favorite campaign level.",
+      "human_version": "0.8",
+      "name": "Halo: The Multiplayer Experience",
+      "hash": "11c46d1ff568290ee4390fe8e2b66f47",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "floodgulch_7",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/floodgulch_7_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Play bloodgulch as a Flood! Tactically shoot off limbs, immobilize your opponent!",
+      "human_version": "0.8",
+      "name": "Flood Gulch",
+      "hash": "982fc28258f9629fa6c18c864abc9088",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "floodgulch_4",
+      "description": "Play bloodgulch as a Flood! Tactically shoot off limbs, immobilize your opponent!",
+      "human_version": "0.7",
+      "name": "Flood Gulch",
+      "hash": "23afabe876197b08e84091b063e061d1",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "floodgulch_3",
+      "description": "Play bloodgulch as a Flood! Tactically shoot off limbs, immobilize your opponent!",
+      "human_version": "0.6",
+      "name": "Flood Gulch",
+      "hash": "21b4473fbc4261ef0dc8f0e6f9df9966",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "logplusplus_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/logplusplus_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Shoot weapons to build your own map made out of logs - with greater accuracy and ease than ever before! Try using the assault rifle or human pistol!",
+      "human_version": "1.0",
+      "name": "Log Mod ++",
+      "hash": "d752ce640809e41c471b8019ec9591ae",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "weapshootwe_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/weapshootwe_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Weapons Shoot Weapons : Some weapons shoot faster, others can fire vehicles and other stuff.",
+      "human_version": "1.0",
+      "name": "Weapons Shoot Weapons",
+      "hash": "8fdf3bd0fdd199a2cf21f17918d8e161",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "bgextreme_10",
+      "description": "A most extreme makeover of Bloodgulch, including waterfalls, rivers, more bases, tunnels, an underground sewer system with a set of boats, and so much more!",
+      "human_version": "2.1",
+      "name": "Bloodgulch Extreme",
+      "hash": "8a15590136fdbc8c9c1be9f71121ed78",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "bloodextrme_8",
+      "description": "A most extreme makeover of Bloodgulch, including waterfalls, rivers, more bases, tunnels, an underground sewer system with a set of boats, and so much more!",
+      "human_version": "2.0",
+      "name": "Bloodgulch Extreme",
+      "hash": "a7f07282184af0038fc9e4b9e74c80ac",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "bloodextrme_7",
+      "description": "A most extreme makeover of Bloodgulch, including waterfalls, rivers, more bases, tunnels, an underground sewer system with a set of boats, and so much more!",
+      "human_version": "2.0 alpha",
+      "name": "Bloodgulch Extreme",
+      "hash": "6d5552d0708fc9dc8791b941ce8d8683",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "bloodextrme_6",
+      "description": "A most extreme makeover of Bloodgulch, including waterfalls, rivers, more bases, tunnels, an underground sewer system with a set of boats, and so much more!",
+      "human_version": "1.1",
+      "name": "Bloodgulch Extreme",
+      "hash": "47937dc52a4c327024f7f4047280675d",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "bloodextrme_5",
+      "description": "A most extreme makeover of Bloodgulch, including waterfalls, rivers, more bases, tunnels, an underground sewer system with a set of boats, and so much more!",
+      "human_version": "1.0",
+      "name": "Bloodgulch Extreme",
+      "hash": "d297e49fd8ad36ef021e19fb69b34d11",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "forestbases_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/forestbases_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Bloodgulch meets foliage... Includes mini sniper towers, base bunkers, sky bases, cliff teleporters, some secret areas, and a tree house with a large cache of supplies. Can you find all the secrets?",
+      "human_version": "1.0",
+      "name": "Forest Bases",
+      "hash": "c99fc9321007d1936a1e07d9b30c41c5",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "matrix_7",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/matrix_7_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "New physics and projectile behavior to match the theme from the Matrix.",
+      "human_version": "1.5",
+      "name": "Matrix",
+      "hash": "15a55d8834a02de936f8f27efc5af104",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "matrix_5",
+      "description": "New physics and projectile behavior to match the theme from the Matrix.",
+      "human_version": "1.4",
+      "name": "Matrix",
+      "hash": "4de37d0be6cad8d2f7a96b4383dce4cb",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "greatwall_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/greatwall_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Adds two walls and new weapons to the Bloodgulch map.",
+      "human_version": "1.0",
+      "name": "Great Wall of Gulch",
+      "hash": "674f20b2f16f9b51fa05be9c2cf36073",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "realevolved_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/realevolved_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "Weapons are more powerful. Includes some funny effects.",
+      "human_version": "1.0",
+      "name": "Halo Combat Really Evolved",
+      "hash": "0df1f24a46ba0d6c15de778c528e0041",
+      "plug-ins": [
+
+      ]
+    },
+    {
+      "identifier": "snowgulch_1",
+      "description": "Bloodgulch in the snow, with sniping posts in the sky. Includes a few CE weapons, too.",
+      "human_version": "0.25",
+      "name": "Snow Gulch",
+      "hash": "3ac0eb61df182f721b446baac466710e",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "wasteland_3",
+      "description": "A huge mod to the halo demo that changes blood gulch into a vast desert, complete with more scenery and tons of new weapons.",
+      "human_version": "1.1",
+      "name": "Wasteland",
+      "hash": "4b2d5c6258b4e08b57b56d0cb6ecf9e4",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "wasteland_1",
+      "description": "A huge mod to the halo demo that changes blood gulch into a vast desert, complete with more scenery and tons of new weapons.",
+      "human_version": "1.0",
+      "name": "Wasteland",
+      "hash": "708be865f6915ddf028452a5e934292a",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "evalpaint_8",
+      "description": "A complete re-haul of bloodgulch, supporting wacky bitmaps, new and wacky weapons, and wacky vehicles. There are many new weapons to test, and a secret to find.",
+      "human_version": "1.5.1",
+      "name": "EVAlution of Paint",
+      "hash": "78884ca7c3aaf296b2424d3fb27e4557",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "evalpaint_6",
+      "description": "A complete re-haul of bloodgulch, supporting wacky bitmaps, new and wacky weapons, and wacky vehicles. There are many new weapons to test, and a secret to find.",
+      "human_version": "1.5",
+      "name": "EVAlution of Paint",
+      "hash": "1d180eed3d7c290f906ae05ba8edc1d2",
+      "plug-ins": [
+
+      ],
+      "patches": [
+
+      ]
+    },
+    {
+      "identifier": "haven_1",
+      "patches": [
+        {
+          "base_identifier": "bloodgulch",
+          "base_hash": "dde1ec328ed9527542e8be94d988b4e0",
+          "path": "patches/haven_1_from_bloodgulch.mdpatch"
+        }
+      ],
+      "description": "One of the three maps from Andor's Evolution Trilogy.",
+      "human_version": "1.5",
+      "name": "Haven",
+      "hash": "5315d5bfb3b59bc8986a76fd6531b0db",
+      "plug-ins": [
+
+      ]
+    }
+  ],
+  "Plug-ins": [
+    {
+      "name": "Port Mapper",
+      "description": "Use Port Mapper to assist hosting games bypassing network issues preventing you from doing so otherwise.",
+      "version": "1.0",
+      "build": 2,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": false
+    },
+    {
+      "name": "3rd Person",
+      "description": "Play Halo in 3rd Person",
+      "version": "1.2",
+      "build": 4,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Tab Out Unsuppress",
+      "description": "Prevents Halo from pausing video when tabbed out.",
+      "version": "1.1",
+      "build": 7,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": false
+    },
+    {
+      "name": "Halo Graphics Update",
+      "description": "Raises the limits of seeing through the BSP",
+      "version": "1.0",
+      "build": 1,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Moon Mode",
+      "description": "Map mode extension that reduces gravity to 33%.",
+      "version": "1.0",
+      "build": 1,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Faster Joining",
+      "description": "Removes the unnecessary fade-in timer to join the game faster.",
+      "version": "1.0",
+      "build": 1,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Increase Visible Object Limit",
+      "description": "This plugin quadruples the visible object limit, allowing more objects to be  rendered at once.",
+      "version": "1.0",
+      "build": 1,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "SpartanIV",
+      "description": "Spartan HUD",
+      "version": "2.3",
+      "build": 16,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Aspect Ratio FOV Fixer",
+      "description": "This plugin adapts the camera FOV to the user's aspect ratio.",
+      "version": "1.1",
+      "build": 2,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Shader Workaround",
+      "description": "Use if you can't see rocks or trees when pixel shaders are turned on.",
+      "version": "2.0.2",
+      "build": 6,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": false
+    },
+    {
+      "name": "Spartan",
+      "description": "Bigass with new upgrades",
+      "version": "3.0",
+      "build": 19,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Rocket Surfing",
+      "description": "Stand near a rocket to ride it.",
+      "version": "1.1",
+      "build": 2,
+      "MDGlobalPlugin": false,
+      "MDMapPlugin": true
+    },
+    {
+      "name": "Halo+",
+      "description": "This plugin fixes Intel Integrated Graphics Shaders, Reduces Halos CPU usage from 100% to 1-3% when it's in the background, Fixes a bug in El Capitan where Halo would crash when in window mode, Enables 16x ansiotropical filtering, Increases the maximum bsp poly limit and Increases the number of objects that can be visible at once",
+      "version": "2.0",
+      "build": 2,
+      "MDGlobalPlugin": true,
+      "MDMapPlugin": false
+    }
+  ]
+}

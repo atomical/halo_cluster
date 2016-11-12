@@ -1,0 +1,17 @@
+!!!
+%html
+  %head
+    %title HaloCluster
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+  %body
+    %nav.navbar.navbar-default
+      .container-fluid
+        .navbar-header
+          %a.navbar-brand{:href => "#"}
+            %img{:alt => "Brand", :src => asset_path("brand.png")}/
+    %p.notice= notice
+    %p.alert= alert
+    .container
+      = yield

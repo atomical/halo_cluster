@@ -1,0 +1,28 @@
+.header-buttons
+  = link_to("New Server", new_server_path, class: "btn btn-default")
+
+- if @servers.count > 0
+  .panel.panel-default
+    .panel-heading Servers
+    %table.table
+      %thead
+        %tr
+          %th Name
+          %th Map
+          %th Status
+          %th Players
+          %th
+      %tbody
+        -@servers.each do |s|
+          %tr
+            %td= link_to(s.name, server_path(s))
+            %td= Map.find(s.map_id).name
+            %td= s.status_formatted
+            %td
+            %td
+              Actions
+- else
+  .alert.alert-warning.alert-dismissible.col-xs-12.col-md-8{:role => "alert"}
+    %button.close{"aria-label" => "Close", "data-dismiss" => "alert", :type => "button"}
+      %span{"aria-hidden" => "true"} ×
+    You haven't created any servers! Click the "New Server" button at the top to create one.

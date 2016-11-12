@@ -1,0 +1,10 @@
+sv_name "#{name}"
+sv_maxplayers #{num_players}
+sv_motd "motd.txt"
+sv_public True
+sv_timelimit #{time_limit}
+sv_mapcycle_timeout #{mapcycle_timeout}
+sv_friendly_fire #{friendly_fire.to_i}
+sv_rcon_password "#{rcon_password}"
+load
+mapcycle_begin
